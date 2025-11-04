@@ -125,7 +125,7 @@ http://103.180.118.5:9981/stream/channelid/1355835268?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits.id" tvg-logo="https://i.imgur.com/K5xCzXk.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Hits._HD_.sg" tvg-logo="https://i.imgur.com/K5xCzXk.png", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -232,10 +232,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozil
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="National Geographic HD.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
 https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/natgeo.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NAT GEO WILD
+#EXTINF:-1 tvg-id="National Geographic Wild HD.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NAT GEO WILD
 https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/natgeowild.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/500px-2019_Discovery_logo.svg.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL 
