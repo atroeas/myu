@@ -292,14 +292,15 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/330px-DAZN_Logo_Master.svg.png" group-title="LIGA INGGRIS",DAZN 1
 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
 
+#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE HD
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+
 #EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE
 https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 1 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
 
 #EXTINF:-1 tvg-id="Bein.1.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA" ,beIN SPORTS 1 HD
 http://livebox.pro/565trail724/6655447788/274122
@@ -400,37 +401,36 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="Sports",Hub Premier 5 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUmQkL5.jpg" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://images.open-epg.com/3649.png" group-title="Sports",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3syDfk.jpg" group-title="Sports",TNT Sports 2
+#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://images.open-epg.com/3653.png" group-title="Sports",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCVx6Xn.jpg" group-title="Sports",TNT Sports 3
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-logo="https://images.open-epg.com/3655.png" group-title="Sports",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFke1fA.jpg" group-title="Sports",TNT Sports 4
+#EXTINF:-1 tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://images.open-epg.com/3657.png group-title="Sports",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k44W7jg.jpg" group-title="Sports",MUTV ᴴᴰ
+
+#EXTINF:-1 tvg-id="MUTV (Man Utd).uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="Sports",MUTV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://tvmate.icu:8080/69NpyV/884735/53717
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZ9umDn.jpg" group-title="Sports",ZIGGO SPORT ᴴᴰ
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/4864.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIpBhNI.jpg" group-title="Sports",SUPER SPORT 1
-https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rda7QXJ.jpg" group-title="Sports",SUPER SPORT 2
+#EXTINF:-1 tvg-id="SuperSport OTT 2.za" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Sports",SUPER SPORT 2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ah68fGX.jpg" group-title="Sports",SUPER SPORT 3
+#EXTINF:-1 tvg-id="SuperSport OTT 3.za" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-3-digitalb.gif" group-title="Sports",SUPER SPORT 3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sNE75Lf.jpg" group-title="Sports",FIFA+ SPORT
+#EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://images.open-epg.com/4079983.png" group-title="Sports",FIFA+ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
