@@ -298,6 +298,9 @@ https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 1 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+
 #EXTINF:-1 tvg-id="Bein.1.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA" ,beIN SPORTS 1 HD
 http://livebox.pro/565trail724/6655447788/274122
 
