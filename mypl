@@ -48,7 +48,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:0 tvg-id="TVOne.id"tvg-country="IT" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",TVONE
 http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvri.png" group-title="INDONESIA",TVRI 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://images.open-epg.com/30571.png" group-title="INDONESIA",TVRI 
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="Metro.TV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/400px-LogoMetroTVsince2010.svg.png", Metro TV
@@ -65,11 +65,11 @@ http://103.66.62.83:8000/play/a06c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bRgrQGI.png" group-title="INDONESIA",GTV HD
+#EXTINF:0 tvg-id="GTV.id" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV HD
 http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
 
 
-#EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA" tvg-logo="https://i.imgur.com/bRgrQGI.png", GTV
+#EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
@@ -79,7 +79,7 @@ http://103.66.62.83:8000/play/a06d/index.m3u8
 #EXTINF:0 tvg-id="CNN.Indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/400px-CNN_Indonesia_logo_%282023%29.svg.png" group-title="INDONESIA",CNN INDONESIA
 http://103.66.62.83:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id" group-title="INDONESIA" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
+#EXTINF:-1 tvg-id="iNews.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png", INEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
