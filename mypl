@@ -168,7 +168,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-logo="https://images.open-epg.com/30568.png" group-title="MOVIES", tvN Movies
+#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-logo="https://images.open-epg.com/32166.png" group-title="MOVIES", tvN Movies
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 
@@ -421,7 +421,7 @@ http://tvmate.icu:8080/69NpyV/884735/53717
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
 #EXTINF:-1 tvg-id="SuperSport OTT 3.za" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-3-digitalb.gif" group-title="Sports",SUPER SPORT 3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
-#EXTINF:-1 tvg-id="FIFA+.us" tvg-logo="https://images.open-epg.com/4079983.png" group-title="Sports",FIFA+ SPORT
+#EXTINF:-1 tvg-id="FIFA+.fi" tvg-logo="https://images.open-epg.com/4079983.png" group-title="Sports",FIFA+ SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
