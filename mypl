@@ -400,14 +400,14 @@ http://203.77.246.58:4500/udp/239.1.5.6:5000
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://images.open-epg.com/7774088.png" group-title="Sports",CHAMPIONS TV 3
 http://203.77.246.58:4500/udp/239.1.5.8:5000
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://images.open-epg.com/32155.png" group-title="SPORTS",SPORTSTARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-id="Sportstars 2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2
+#EXTINF:0 tvg-id="Sportstars 2.id" tvg-logo="https://images.open-epg.com/32154.png" group-title="Sports",Sportstars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
