@@ -30,13 +30,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 #EXTINF:0 tvg-id="TransTV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",TRANSTV
 http://103.172.71.153:9981/stream/channelid/18683348?profile=pass
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="INDONESIA",TRANS 7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-country="IT" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="INDONESIA",TRANS7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-country="IT" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",TRANS7
 http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png",TV ONE
@@ -83,7 +78,7 @@ http://103.66.62.83:8000/play/a06e/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
-#EXTINF:-1  tvg-name="TRANS7" tvg-id="TRANS7" group-title="INDONESIA" tvg-logo=https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png,TRANS7
+#EXTINF:-1  tvg-name="TRANS7" tvg-id="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1  tvg-name="TransTV" tvg-id="Trans TV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png,Trans TV
