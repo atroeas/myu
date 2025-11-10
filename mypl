@@ -121,12 +121,8 @@ http://103.180.118.5:9981/stream/channelid/1355835268?profile=pass
 https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBO.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Hits._HD_.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
-#KODIPROP:network-caching=2000
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOHits.m3u8
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Signature._HD_.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -437,7 +433,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:-1,HBO HITS ID group-title="COBA"
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Hits._HD_.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62173
 #EXTINF:-1,HBO FAMILY ID group-title="COBA"
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62172
