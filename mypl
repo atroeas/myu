@@ -86,9 +86,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 -----------------------------------------KIDS-----------------------
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png" group-title="KIDS", ANIPLUS HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62158
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" TVG-EPGURL="https://bit.ly/4nAOjOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", ANIMAX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
@@ -433,29 +431,39 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Hits._HD_.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62173
-#EXTINF:-1,HBO FAMILY ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62172
-#EXTINF:-1,HBO RED ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62171
-#EXTINF:-1,TVRI ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62177
-#EXTINF:-1,CNN Indonesia ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62163
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MO",HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="O",HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="O",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="O",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MO",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MO",HBO
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MO",HBO HITS
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MO",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MO",HBO FAMILY
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MO",CINEMAX
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
 
-#EXTINF:-1,RCTV ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62159
-#EXTINF:-1,ANIPlus ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62158
-#EXTINF:-1,Thrill ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62189
-#EXTINF:-1,Trans TV HD ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62186
-#EXTINF:-1,Trans7 ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62187
-
-#EXTINF:-1,TVN ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62138
-#EXTINF:-1,TVN Movies ID group-title="COBA"
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62178
