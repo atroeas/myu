@@ -108,7 +108,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 
 --------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png" group-title="MOVIES",HBO HD
-http://103.180.118.5:9981/stream/channelid/1355835268?profile=pass
+https://github.com/hendroagung2904/Super-Dooper-Smart/blob/main/HBO.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
@@ -439,5 +439,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXTq3VjFHdhmiY9JXei0XIw.png" group-title="Education",Aniplus
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/170
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO Group", HBO 
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
+#KODIPROP:network-caching=2000
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HBO.m3u8
