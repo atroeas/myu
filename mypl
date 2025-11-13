@@ -21,15 +21,13 @@ http://203.77.246.58:4500/udp/239.1.1.108:5000
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA", Trans TV HD
-http://filex.tv:8080//live/Waqas%20Latif/12345678/302311.ts
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",TRANSTV
 http://103.172.71.153:9981/stream/channelid/18683348?profile=pass
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-country="IT" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",TRANS7
-http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
+http://filex.tv:8080//live/Waqas%20Latif/12345678/302311.ts
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-country="IT" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",TRANS 7 HD
 http://filex.tv:8080//live/Waqas%20Latif/12345678/302312.ts
@@ -449,14 +447,3 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 group-title="🔴INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
