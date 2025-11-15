@@ -84,7 +84,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 -----------------------------------------KIDS-----------------------
 
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png" group-title="KIDS", ANIPLUS
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
