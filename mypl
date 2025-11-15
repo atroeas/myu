@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s" group-title="NASIONAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id" group-title="INDONESIA",INDOSIAR
+http://103.66.62.83:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
