@@ -264,7 +264,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Premier League.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/79117.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="http://103.176.90.95/images/1641636.png" group-title="LIGA INGGRIS",SKY SPORTS MAIN EVENT UHD/4K
+#EXTINF:-1 tvg-id="Sky Sports Main Event.uk" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="https://images.open-epg.com/3635.png" group-title="LIGA INGGRIS",SKY SPORTS MAIN EVENT UHD/4K
 http://27194-groove.ott-tx.com:80/25b23e884a/faeebf80b6f3/1641636
 
 
@@ -411,7 +411,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="http://103.176.90.95/images/1641637.png" group-title="Sports",SKY SPORTS F1 UHD/4K
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="https://images.open-epg.com/3629.png" group-title="Sports",SKY SPORTS F1 UHD/4K
 http://27194-groove.ott-tx.com:80/25b23e884a/faeebf80b6f3/1641637
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 
