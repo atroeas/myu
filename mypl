@@ -88,9 +88,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" TVG-EPGURL="https://bit.ly/4nAOjOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" TVG-EPGURL="https://bit.ly/4nAOjOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax HD
-http://202.73.99.162/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-
 #EXTINF:-1 tvg-id="Nick.Junior.id" tvg-logo="https://i.pinimg.com/736x/30/f0/64/30f06464f59c7c1086b95c4b3577319d.jpg" group-title=KIDS", Nick Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
@@ -130,9 +127,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO.Family._HD_.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666249.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Family._HD_.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
