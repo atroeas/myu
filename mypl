@@ -51,7 +51,7 @@ http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 EXTINF:-1 tvg-id="Kompas.TV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/KOMPAS_TV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
