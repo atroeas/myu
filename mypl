@@ -59,7 +59,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 #EXTINF:0 tvg-id="GTV.id" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV HD
-http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV
