@@ -252,12 +252,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.
 #EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_207.jpg" group-title="KNOWLEDGE",Crime Investigation
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 #EXTINF:-1 tvg-id="History.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" group-title="KNOWLEDGE",History
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
 #EXTINF:-1 tvg-id="CNA.id" tvg-logo="https://i.imgur.com/bsQCS1j.png" group-title="KNOWLEDGE",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
