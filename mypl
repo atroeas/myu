@@ -33,8 +33,8 @@ http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-country="IT" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",Trans 7 FMX
-#https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
-#https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
 
 #EXTINF:-1 tvg-id="TVOne.id" group-title="INDONESIA" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png",tvOne SD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
