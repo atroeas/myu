@@ -270,8 +270,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 
 #EXTINF: -1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://b1g.uk/200/230/709259
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/570.ts
 
 #EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE HD
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
