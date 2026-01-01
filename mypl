@@ -83,6 +83,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SSD
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdngb196.indihometv.com/dass/133/trans7/manifest_wuseetv.mpd
+
 -----------------------------------------KIDS-----------------------
 
 
