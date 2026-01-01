@@ -87,8 +87,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SSD
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
-https://cdngb196.indihometv.com/dassdvr/133/trans7/manifest.mpd
+https://cdn13jtedge.indihometv.com/dass/133/trans7/manifest.mpd
 
 -----------------------------------------KIDS-----------------------
 
@@ -97,7 +96,7 @@ https://cdngb196.indihometv.com/dassdvr/133/trans7/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+https://cdn13jtedge.indihometv.com/dass/107/aniplus/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" TVG-EPGURL="https://bit.ly/4nAOjOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax
