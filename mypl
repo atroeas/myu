@@ -397,7 +397,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
-##EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://images.open-epg.com/7774086.png" group-title="Sports",CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://images.open-epg.com/7774086.png" group-title="Sports",CHAMPIONS TV 1
 http://202.169.224.202:8800/udp/239.9.1.9:1234
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
