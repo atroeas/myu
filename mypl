@@ -89,13 +89,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 -----------------------------------------KIDS-----------------------
 
-
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", Aniplus
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn13jtedge.indihometv.com/dass/107/aniplus/manifest.mpd
-
+http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34397.ts
 
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" TVG-EPGURL="https://bit.ly/4nAOjOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
