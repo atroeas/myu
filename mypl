@@ -296,7 +296,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Premier League.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE HD
-https://a1xs.vip/120004
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135439
 
 #EXTINF:-1 tvg-id="Sky Sports Main Event.uk" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="https://images.open-epg.com/3635.png" group-title="LIGA INGGRIS",SKY SPORTS MAIN EVENT UHD/4K
 http://27194-groove.ott-tx.com:80/25b23e884a/faeebf80b6f3/1641636
@@ -315,6 +315,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="SPORT VIP 1",FR: CANAL+ FOOT
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/369
 
 #EXTINF:-1 tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
