@@ -277,11 +277,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premiu
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/570.ts
 
-#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE HD
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE 1
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1159
 
-#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE
-https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
+#EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1158
 
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
@@ -332,6 +332,9 @@ https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
 #EXTINF:-1 tvg-id="Eleven.Sports.3"  group-title="LA LIGA", ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+#EXTINF:-1 tvg-id="Astro Football.my" group-title="SERIE A & FA CUP" tvg-logo="https://images.open-epg.com/11630113.png" ,ASTRO FOOTBALL HD
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080431
 
 #EXTINF:0 tvg-id="Bein.2.id" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1752576028271-bein_sports_2_100X56.png" group-title="Sports",beIN Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
