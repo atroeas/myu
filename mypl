@@ -316,7 +316,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="SPORT VIP 1",FR: CANAL+ FOOT
+#EXTINF:-1 tvg-id="Canal+ Foot.fr"  tvg-logo="https://images.open-epg.com/779941.png" group-title="SPORT VIP 1",FR: CANAL+ FOOT
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/369
 
 #EXTINF:-1 tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
