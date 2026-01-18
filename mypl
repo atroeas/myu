@@ -16,10 +16,10 @@ http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
