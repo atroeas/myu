@@ -258,10 +258,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozil
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTINF:-1 tvg-id="National Geographic HD.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/natgeo.m3u8
+http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 tvg-id="National Geographic Wild HD.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NAT GEO WILD
-https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/natgeowild.m3u8
+http://supersonictv.live:8080/611366/682256/22125
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -300,7 +300,7 @@ http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1158
 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
-https://a1xs.vip/1100041
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="Sports",Hub Premier 2 FHD
 https://a1xs.vip/1100042
