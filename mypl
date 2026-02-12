@@ -172,12 +172,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
 #EXTINF:-1 tvg-id="TVN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/500px-Logo_tvN.svg.png" group-title="MOVIES", tvN
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://enkripsi.tvgeulis3.workers.dev/license?token=1M1uyJ6UBMH9QXtR2YPy88Gp2mGe8qE1Nf8xfx8OuP25MX46_wwKbDnQuajFFEc44IyGHkILRvfY2mKj9vKvf7odncTKNLjjcz1ea4vDGwiEknZR7jvQ3_fsnPz7ksnW&exp=1770896232&hmac=5796337c136af33502b85dc50c573dc28a1321fcd487efbc2bf2c1f5118f9fb2
+https://enkripsi.tvgeulis3.workers.dev/stream.mpd?token=Zp-wGxSDkYyq4iD60L3gm7bnPBjZO_2bT1qX3O6L8Rw4o7aZRr33CgfknzGbm6-GSUklm5fgq_1sTtrpaurt1Tu98pjQnMbVn0aAN0Eb37kQsLRQ2Rjsxy_S6bBVLPo4iC08ADKjP4FidZQcQzqYf0K_sjyAdWlkGRJF0YakKcc&exp=1770896232&hmac=2a41347db060045e96c5da301f7a5784785596ecf9ad6f54c69c0808acb06c70
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
