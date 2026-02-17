@@ -10,7 +10,7 @@ http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
-http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpds
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",Net.
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
