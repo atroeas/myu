@@ -285,11 +285,27 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 #EXTINF: -1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
 http://aflaxtv.xyz:8080/F33848/cbd9779b/306492
 
-#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE 1
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163985.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE 1
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
+http://96.44.160.246:9999/smt.php?id=Assp1
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp1
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
-http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1163986.ts
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2hd
+http://96.44.160.246:9999/smt.php?id=Assp2
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Assp2
+https://mimipipi22.github.io/logo/offline.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
 http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
@@ -303,10 +319,10 @@ https://a1xs.vip/1100042
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport Premier League.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+#EXTINF:-1 tvg-id="Sky Sports Premier League.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE HD
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+https://zamlb.tgaadi.workers.dev/1773.ts
+https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="Arena Sport 1.ba" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
