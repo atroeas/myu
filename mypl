@@ -308,7 +308,9 @@ https://mimipipi22.github.io/logo/offline.m3u8
 
 
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
-http://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD232/index.mpd
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
