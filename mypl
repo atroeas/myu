@@ -189,8 +189,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="MOVIES", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-logo="https://images.open-epg.com/30559.png" group-title="MOVIES",Rock Entertainment
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
