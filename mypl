@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id" group-title="INDONESIA",Indosiar
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+http://103.160.205.142:9999/stream/channelid/1572645689?profile=pass
+
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
+http://103.130.6.240:3058/stream/channelid/878172290?ticket=D9932017DD186E4FDA2A3A8F008BDD8DB7DB68D4&profile=pass
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV SD
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
-http://103.130.6.240:3058/stream/channelid/878172290?ticket=D9932017DD186E4FDA2A3A8F008BDD8DB7DB68D4&profile=pass
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",Net.
 http://103.130.6.240:3058/stream/channelid/1836012373?ticket=7879D7730E5CC58DB884727CE03336C25F8DB769&profile=pass
@@ -69,9 +69,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 #EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="CNN.Indonesia.id" tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
+http://103.130.6.240:3058/stream/channelid/1046111730?ticket=8E2675E05E69CDE2B5512B7BC7549A26EC43D3FE&profile=pass
 
 #EXTINF:0 tvg-id="iNews.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png", iNews
 http://103.228.246.53:7777/udp/224.2.2.2:3040
