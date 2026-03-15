@@ -9,13 +9,13 @@ http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
-http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
+http://103.130.6.240:3058/stream/channelid/73272313?ticket=DAE5835219B972D2F5F7E818D0824B43DEA4C1A2&profile=pass
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",Net.
+#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",Net.
 http://103.130.6.240:3058/stream/channelid/1836012373?ticket=7879D7730E5CC58DB884727CE03336C25F8DB769&profile=pass
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 http://103.130.6.240:3058/stream/channelid/1844170157?ticket=2218C2BC30E604D0B613D0725D20DC7F4DCBE3DD&profile=pass
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
