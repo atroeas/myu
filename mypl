@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id" group-title="INDONESIA",Indosiar
 http://103.160.205.142:9999/stream/channelid/1572645689?profile=pass
 
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
-http://103.130.6.240:3058/stream/channelid/878172290?ticket=D9932017DD186E4FDA2A3A8F008BDD8DB7DB68D4&profile=pass
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
+http://103.228.246.53:7777/udp/224.2.2.2:3032
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV SD
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -18,8 +18,8 @@ http://103.130.6.240:3058/stream/channelid/1836012373?ticket=7879D7730E5CC58DB88
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 http://103.130.6.240:3058/stream/channelid/1844170157?ticket=2218C2BC30E604D0B613D0725D20DC7F4DCBE3DD&profile=pass
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
-http://103.130.6.240:3058/stream/channelid/535529863?ticket=1CB72F839F1F4F681B1F6C89F65F4BA0E0A2C416&profile=pass
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
+http://103.228.246.53:7777/udp/224.2.2.2:3020
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
 http://103.130.6.240:3058/stream/channelid/1965842798?ticket=E86D6A929156F0A4F542E5A5450D3AADB2B3DFDE&profile=pass
@@ -58,8 +58,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV HD
-http://103.130.6.240:3058/stream/channelid/73272313?ticket=DAE5835219B972D2F5F7E818D0824B43DEA4C1A2&profile=pass
-
+http://103.228.246.53:7777/udp/224.2.2.2:3036
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
