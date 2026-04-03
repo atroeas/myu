@@ -13,7 +13,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3032
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",Net.
-http://103.130.6.240:3058/stream/channelid/1836012373?ticket=7879D7730E5CC58DB884727CE03336C25F8DB769&profile=pass
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
