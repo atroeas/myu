@@ -32,7 +32,7 @@ http://103.130.6.240:3058/stream/channelid/1625067110?ticket=1C102FF50B21833BB50
 #EXTINF:-1 tvg-id="TVOne.id" group-title="INDONESIA" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png",tvOne SD
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:0 tvg-id="TVOne.id" tvg-country="IT" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
+#EXTINF:0 tvg-id="TvOne.id" tvg-country="IT" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
