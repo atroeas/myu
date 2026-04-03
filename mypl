@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id" group-title="INDONESIA",Indosiar
-http://103.160.205.142:9999/stream/channelid/1572645689?profile=pass
+http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/440px-MNCTV_logo_2015.svg.png" group-title="INDONESIA",MNCTV HD
 http://103.228.246.53:7777/udp/224.2.2.2:3032
@@ -16,7 +16,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 http://103.130.6.240:3058/stream/channelid/1836012373?ticket=7879D7730E5CC58DB884727CE03336C25F8DB769&profile=pass
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://103.130.6.240:3058/stream/channelid/1844170157?ticket=2218C2BC30E604D0B613D0725D20DC7F4DCBE3DD&profile=pass
+http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
 http://103.228.246.53:7777/udp/224.2.2.2:3020
