@@ -263,7 +263,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+http://opplextv.cyou:8080/nasir6160/nasir/350889
 
 #EXTINF:-1 tvg-id="National Geographic HD.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
 http://supersonictv.live:8080/611366/682256/22124
@@ -307,7 +307,7 @@ http://107.175.220.4:11799/go_assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD232/index.mpd
+http://opplextv.cyou:8080/nasir6160/nasir/233072
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
@@ -319,9 +319,10 @@ https://a1xs.vip/1100042
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Main Event UHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
-https://7pal.short.gy/SkSpMainE
+http://opplextv.cyou:8080/nasir6160/nasir/346382
+
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
-https://7pal.short.gy/ssportspl
+http://opplextv.cyou:8080/nasir6160/nasir/346242
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
