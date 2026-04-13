@@ -357,7 +357,7 @@ https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-id="Eleven.Sports.3"  group-title="LA LIGA", ElevenSport3
-https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/352797
 
 #EXTINF:-1 tvg-id="Arena Premium 2.rs" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="LA LIGA", ARENA PREMIUM 2
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26460
@@ -394,12 +394,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
   
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-logo="https://images.open-epg.com/10179.png" group-title="LA LIGA", ElevenSport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTVLCOPT:http-origin=https://dmcstream.site
-#EXTVLCOPT:http-referrer=https://dmcstream.site/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+http://opplextv.cyou:8080/nasir6160/nasir/352795
 
 
 #EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="Sports",Hub Premier 3 FHD
