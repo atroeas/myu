@@ -360,28 +360,28 @@ http://aflaxtv.xyz:8080/F33848/cbd9779b/306492
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE 1
-#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
-#http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
-#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague2.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague2.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
-#https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#http://107.175.220.4:11799/go_assp1/playlist.m3u8
-#https://freeiptv2026.sepak7042.workers.dev/live/astro_pl
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+http://107.175.220.4:11799/go_assp1/playlist.m3u8
+https://freeiptv2026.sepak7042.workers.dev/live/astro_pl
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=m3u8
-#https://github.com/cattviptv2605/sportworld/raw/main/astropremierleague2.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#http://107.175.220.4:11799/go_assp2/playlist.m3u8
-#https://freeiptv2026.sepak7042.workers.dev/live/astro_pl2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/astropremierleague2.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+http://107.175.220.4:11799/go_assp2/playlist.m3u8
+https://freeiptv2026.sepak7042.workers.dev/live/astro_pl2
 
 
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
