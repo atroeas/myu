@@ -507,7 +507,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="MUTV (Man Utd).uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="Sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="Sports",MUTV
 https://get.perfecttv.net/mutv.mpd
 
 #EXTINF:-1 tvg-id="SuperSport OTT 2.za" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Sports",SUPER SPORT 2
