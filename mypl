@@ -24,7 +24,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3020
 #EXTINF:0 tvg-id="TransTV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
 http://103.172.71.153:9981/stream/channelid/18683348?profile=pass
 
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",Trans 7
+#EXTINF:0 tvg-id="Trans 7.id" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",Trans 7
 http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -77,7 +77,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3040
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://images.open-epg.com/30524.png" group-title="INDONESIA",ANTV
 http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
+#EXTINF:-1 tvg-id="Trans 7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
 
@@ -322,10 +322,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
 http://opplextv.cyou:8080/nasir6160/nasir/350889
 
-#EXTINF:-1 tvg-id="National Geographic HD.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NationalGeographic.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
 http://supersonictv.live:8080/611366/682256/22124
 
-#EXTINF:-1 tvg-id="National Geographic Wild HD.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NAT GEO WILD
 http://supersonictv.live:8080/611366/682256/22125
 
 
@@ -387,10 +387,10 @@ http://lunar.pm:8080/Mrdon/4782314540/110289
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Main Event UHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
 http://opplextv.cyou:8080/nasir6160/nasir/346382
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD.uk" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
 http://opplextv.cyou:8080/nasir6160/nasir/346242
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
@@ -508,8 +508,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 tvg-id="MUTV (Man Utd).uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="Sports",MUTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://tvmate.icu:8080/69NpyV/884735/53717
+https://get.perfecttv.net/mutv.mpd
 
 #EXTINF:-1 tvg-id="SuperSport OTT 2.za" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-2-digitalb.gif" group-title="Sports",SUPER SPORT 2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
