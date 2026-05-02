@@ -29,10 +29,6 @@ http://103.172.71.153:9981/stream/channelid/18683348?profile=pass
 #EXTINF:0 tvg-id="Trans.7.id" tvg-logo="https://images.open-epg.com/30567.png" group-title="INDONESIA",Trans 7
 http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="Tv.One.id" group-title="INDONESIA" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png",tvOne SD
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:0 tvg-id="Tv.One.id" tvg-country="IT" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -79,7 +75,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3040
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://images.open-epg.com/30524.png" group-title="INDONESIA",ANTV
 http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
+#EXTINF:-1 tvg-id="Trans.7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
 
@@ -88,7 +84,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sle
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
+#EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
