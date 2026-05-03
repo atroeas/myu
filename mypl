@@ -370,8 +370,6 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 #EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
 http://opplextv.cyou:8080/nasir6160/nasir/233072
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
@@ -379,8 +377,7 @@ http://lunar.pm:8080/Mrdon/4782314540/110288
 #http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="Sports",Hub Premier 2 FHD
-http://lunar.pm:8080/Mrdon/4782314540/110289
-#http://myxpanel.pro/live/randy1/randy1/288374.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
