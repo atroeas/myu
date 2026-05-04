@@ -30,7 +30,7 @@ http://103.172.71.153:9981/stream/channelid/18683348?profile=pass
 http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 
 
-#EXTINF:0 tvg-id="TVOne.id" tvg-country="IT" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
