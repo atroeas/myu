@@ -20,7 +20,7 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/440px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 http://103.228.246.53:7777/udp/224.2.2.2:3020
 
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-country="IT" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
