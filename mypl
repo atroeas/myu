@@ -17,8 +17,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:0 tvg-id="NET.TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
-#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 http://103.228.246.53:7777/udp/224.2.2.2:3020
@@ -41,11 +41,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/400px-LogoMetroTVsince2010.svg.png", Metro TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+http://iptv.kilas7.com/live/kaukia/asdfrewq/6.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV HD
 http://103.130.6.240:3058/stream/channelid/270355248?ticket=97EA89AE9EF6D1873F6559691A90FA105B761802&profile=pass
