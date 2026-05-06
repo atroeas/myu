@@ -186,7 +186,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,7 +302,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX.(HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax (CUB)
+#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax (CUB)
 z#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
