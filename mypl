@@ -373,7 +373,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 http://opplextv.cyou:8080/nasir6160/nasir/233072
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
-http://lunar.pm:8080/Mrdon/4782314540/110288
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
 
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="Sports",Hub Premier 2 FHD
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
@@ -481,13 +481,13 @@ https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="Sports",Hub Premier 3 FHD
-https://a1xs.vip/1100043
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
 
 #EXTINF:-1 tvg-id="Hub Premier 4.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="Sports",Hub Premier 4 FHD
-https://a1xs.vip/1100044
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
 
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="Sports",Hub Premier 5 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
