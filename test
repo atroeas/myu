@@ -825,5 +825,84 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="•UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" ,UFC (S2)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 group-title="•UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" ,UFC PASS
-basket
+
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep3.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep6.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep7.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , TRY 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , LIS 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Lispa/Lis1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , LIS 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Lispa/Lis2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASP1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Asp1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASP2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Asp2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASP3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Asp3.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASP4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Asp4.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASP5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Asp5.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , DZN1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Dz1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTPL
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTPL2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTPL3
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTPL4
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , BS1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev6.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ELEV7
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev7.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTAREN
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , ASTAREN2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Astbol
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astbol.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Astftbol
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astftbol.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Astplus
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astplus.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live3.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live4.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live5.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live6.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Live7
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live7.m3u8
+#EXTINF:-1 group-title="COBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" , Canal 1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can%2B1.m3u8
