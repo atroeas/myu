@@ -40,13 +40,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://images.open-epg.com/30571.png" group-title="INDONESIA",TVRI 
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/400px-LogoMetroTVsince2010.svg.png", Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/400px-LogoMetroTVsince2010.svg.png", Metro TV
 http://iptv.kilas7.com/live/kaukia/asdfrewq/6.m3u8
 
-#EXTINF:-1 tvg-id="Kompas TV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV HD
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV HD
 http://103.130.6.240:3058/stream/channelid/270355248?ticket=97EA89AE9EF6D1873F6559691A90FA105B761802&profile=pass
 
-#EXTINF:-1 tvg-id="Kompas TV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="INDONESIA" tvg-logo="https://w7.pngwing.com/pngs/112/788/png-transparent-kompas-tv-jakarta-newspaper-logo-design-blue-angle-text-thumbnail.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
@@ -129,7 +129,7 @@ https://nl.utako.moe/Animax/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBO Hits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits TV
+#EXTINF:0 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -137,7 +137,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-id="HBO Family.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family TV
+#EXTINF:0 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -145,7 +145,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBO Signature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:0 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -162,7 +162,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -170,7 +170,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -178,7 +178,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -282,22 +282,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO (CUB)
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO (CUB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits (CUB)
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits (CUB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family (CUB)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family (CUB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
