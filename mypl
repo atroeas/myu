@@ -63,7 +63,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3036
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:0 tvg-id="CNN.Indonesia.id" tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
@@ -387,7 +387,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/346382
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
 http://opplextv.cyou:8080/nasir6160/nasir/346242
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
+#EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
 
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="LIGA INGGRIS",Arena Premium 1
