@@ -354,7 +354,9 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 http://geotv.space:8880/557623231/543416701/115770
 
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+http://myxpanel.pro/live/Melo/Melo/288375.ts
+#http://lunar.pm:8080/Mrdon/4782314540/110288
+#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260421&channel_id=369784" tvg-id="369784" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="LIGA INGGRIS", Hub Premier 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
@@ -389,8 +391,17 @@ https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/uiffe4
 
 #EXTINF:-1 tvg-id="Canal+ Foot.fr"  tvg-logo="https://images.open-epg.com/779941.png" group-title="LIGA INGGRIS",CANAL+ FOOT
 http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/256631
+
 #EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-logo="https://images.open-epg.com/779948.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/114146
+
+#EXTINF:-1 tvg-uid="b254f12c078620955e66029a02c304a1" data-source="Vididi Combi Termux" tvg-id="9353" tvg-logo="https://logo.premierleague.com/img/lion-dark.svg" group-title="LIGA INGGRIS", Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=9353&ext=drm&x=1779381578&k=3f4938f4eb44b1677ad5570c696f8a95c979ea22187addba43c279695cd427e2
+https://streambonetv.adenrahim97.workers.dev/index.mpd?q=9353&ext=dash&x=1779381578&k=936e2a0897628ebf4d6d895358a120b64f2efa0357df39348d9805fcb5fa236c
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
