@@ -557,7 +557,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9183&type=drm
 https://manamedian.serv00.net/1antaubospanel.php/manifest.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://images.open-epg.com/7774090.png" group-title="Sports",CHAMPIONS TV 6#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://images.open-epg.com/7774090.png" group-title="Sports",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
