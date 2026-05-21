@@ -392,10 +392,7 @@ http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/256631
 #EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-logo="https://images.open-epg.com/779948.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/114146
 
-
-#EXTINF:-1 tvg-id="SuperSport MáXimo 1.za" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="LIGA INGGRIS", SuperSport1
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1312
-
+--------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
