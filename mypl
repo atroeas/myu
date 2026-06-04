@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id@SD" group-title="INDONESIA",Indosiar
-http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV HD
 http://103.228.246.53:7777/udp/224.2.2.2:3032
@@ -12,7 +12,7 @@ http://103.228.246.53:7777/udp/224.2.2.2:3032
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:0 tvg-id="MDTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV
+#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
