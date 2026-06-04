@@ -21,7 +21,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/162141
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 http://103.228.246.53:7777/udp/224.2.2.2:3020
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
+#EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/162503
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
@@ -362,10 +362,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/147553
 https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-id="Canal+ Foot.fr"  tvg-logo="https://images.open-epg.com/779941.png" group-title="LIGA INGGRIS",CANAL+ FOOT
-http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/256631
-
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-logo="https://images.open-epg.com/779948.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
-http://egl-4k.xyz:80/9je0pq4u3s/mps5lowh1h/114146
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/297372
 
 #EXTINF:-1:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
 http://opplextv.cyou:8080/nasir6160/nasir/233075
@@ -618,3 +615,24 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1860
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/3638
 #EXTINF:-1 tvg-id="SuperSport7.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20863.png" tvg-id="SuperSport7.al" ,SuperSport 7
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174441
+
+#EXTINF:-1 tvg-id="ČT sport.cz" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dbd9b667539ebef66e36b1439519004.png" ,CT Sport
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174685
+#EXTINF:-1 tvg-id="Nova Sport 1 HD.cz" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e10dfe9bb607e5f45f2a77088f02077c.png" tvg-id="NOVASPORT1.cz" ,Nova Sport 1
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/279611
+#EXTINF:-1 tvg-id="Nova Sport 2 HD.cz" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a7b19a5befb4c38325242e0eff1d0c0.png" tvg-id="NOVASPORT2.cz" ,Nova Sport 2
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/46718
+#EXTINF:-1 tvg-id="Nova Sport 3 HD.cz" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9e84927c960532259bef903a820a7f6a.png" tvg-id="NOVASPORT3.cz" ,Nova Sport 3
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/298867
+#EXTINF:-1 tvg-id="Nova Sport 4 HD.cz" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/29a06e7727a720e6f9fa2e5e92da9da6.png" tvg-id="NOVASPORT4.cz" ,Nova Sport 4
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/298866
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/e2c84cbfc06e78f74721b042e3411740.png" tvg-id="cmorefotboll.se" ,TV4 Fotboll/C More Fotboll
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/10659
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b48e2102ca3ffba0bdbcebcb419bbd17.png" tvg-id="TRTSPOR.tr" ,TRT Spor
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/528
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/304d92146d514ecba8e6dd59712822d3.png" tvg-id="TRTSPORYILDIZ.tr" ,TRT Spor Yildiz
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/32095
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="FoxSports1.us" ,Fox Sports 1
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300620
+#EXTINF:-1 tvg-id="Fox Sports 2.us" group-title="WORLD CUP" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" tvg-id="FoxSports2.us" ,Fox Sports 2
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300621
