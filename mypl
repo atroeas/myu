@@ -13,10 +13,10 @@ http://103.228.246.53:7777/udp/224.2.2.2:3032
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png" group-title="INDONESIA",NET TV
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+http://202.169.224.202:8800/udp/239.1.1.1:1234
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/162141
+http://103.148.44.38:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 http://103.228.246.53:7777/udp/224.2.2.2:3020
@@ -86,7 +86,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sle
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 -----------------------------------------KIDS-----------------------
 
