@@ -625,11 +625,11 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/10659
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/528
 #EXTINF:-1 group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/304d92146d514ecba8e6dd59712822d3.png" tvg-id="TRT SPOR YILDIZ.tr" ,TRT Spor Yildiz
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/32095
-#EXTINF:0 tvg-id="TRT 1.tr" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="WORLD CUP🏆",TRT1
+#EXTINF:0 tvg-id="TRT 1.tr" tvg-logo="https://images.open-epg.com/9838.png" group-title="WORLD CUP🏆",TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Fox Sports 1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="WORLD CUP🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,Fox Sports 1
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300620
-#EXTINF:-1 tvg-id="Fox Sports 2.us" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Fox Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2.us" group-title="WORLD CUP🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/500px-FS2_logo_2015.svg.png" ,Fox Sports 2
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300621
 
 #EXTINF:-1 group-title="WORLD CUP🏆" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg", DSPORTS (Latin America)
@@ -682,19 +682,18 @@ http://stream.cammonitorplus.net/1772/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
-#EXTINF:-1 tvg-uid="265113362ef362dd44dc7b919e132827" data-source="tvbangladesh" tvg-name="FIFA World Cup 2026" tvg-logo="https://www.somoynews.tv/icon.png" group-title="WORLD CUP🏆",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-uid="265113362ef362dd44dc7b919e132827" data-source="tvbangladesh" tvg-name="FIFA World Cup 2026" tvg-logo="https://www.somoynews.tv/icon.png" group-title="WORLD CUP🏆", SOMOY (BANGLADESH)
 
 #EXTINF:-1 tvg-uid="265113362ef362dd44dc7b919e132827" data-source="tvbangladesh" tvg-name="FIFA World Cup 2026" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg" group-title="WORLD CUP🏆",FIFA World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1 tvg-uid="96b97e94fcce175ae81e3528dbcb7849" data-source="tvbangladesh" tvg-name="Caze TV" tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg" group-title="WORLD CUP🏆",FIFA World Cup 2026 ðŸ‡§ðŸ‡·[coming]
+#EXTINF:-1 tvg-uid="96b97e94fcce175ae81e3528dbcb7849" tvg-name="Caze TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/500px-Caz%C3%A9TV_logo.svg.png" group-title="WORLD CUP🏆", CAZE TV (BRAZIL)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="TVP Sport.pl" tvg-logo="https://images.open-epg.com/17034686.png" group-title="WORLD CUP🏆",TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="RTVS Šport.sk" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="WORLD CUP🏆", RTVS SPORT SLOVAKIA
+#EXTINF:-1 tvg-id="RTVS Šport.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/STVR_2026.svg/500px-STVR_2026.svg.png" group-title="WORLD CUP🏆", RTVS SPORT SLOVAKIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -704,14 +703,14 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="WORLD CUP🏆",CCTV5
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://images.open-epg.com/30950.png" group-title="WORLD CUP🏆",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="CCTV5PLUS.cn" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="WORLD CUP🏆",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS.cn" tvg-logo="https://images.open-epg.com/30951.png" group-title="WORLD CUP🏆",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 http://74.91.26.218:82/live/cctv5p.m3u8
