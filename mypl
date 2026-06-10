@@ -607,7 +607,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/3638
 #EXTINF:-1 tvg-id="SuperSport7.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20863.png" tvg-id="SuperSport7.al" ,SuperSport 7
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174441
 
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png" group-title="IPTV", TVRI Sport 
+#EXTINF:-1  tvg-name="WORLD CUP🏆" tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png" group-title="IPTV", TVRI Sport 
 http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ČT sport.cz" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dbd9b667539ebef66e36b1439519004.png" ,CT Sport
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174685
@@ -629,7 +629,8 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/32095
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300620
 #EXTINF:-1 tvg-id="Fox Sports 2.us" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" ,Fox Sports 2
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/300621
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg", DSPORTS (Latin America)
+
+#EXTINF:-1 group-title="WORLD CUP🏆" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg", DSPORTS (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
@@ -640,14 +641,14 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
 
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="WORLD CUP🏆", BBC One (United Kingdom)
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="WORLD CUP🏆", BBC One (United Kingdom)
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="WORLD CUP🏆", BBC Two (United Kingdom)
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://images.open-epg.com/x368.png" group-title="WORLD CUP🏆", BBC Two (United Kingdom)
 https://xemzi.short.gy/1000002
 
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="WORLD CUP🏆", SporTV (Brazil)
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://images.open-epg.com/14269.png" group-title="WORLD CUP🏆", SporTV (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -655,14 +656,14 @@ https://xemzi.short.gy/1000002
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="WORLD CUP🏆", SporTV 2 (Brazil)
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://images.open-epg.com/14271.png" group-title="WORLD CUP🏆", SporTV 2 (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="WORLD CUP🏆", SporTV 3 (Brazil)
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://images.open-epg.com/14273.png" group-title="WORLD CUP🏆", SporTV 3 (Brazil)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
