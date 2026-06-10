@@ -607,7 +607,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/3638
 #EXTINF:-1 tvg-id="SuperSport7.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20863.png" tvg-id="SuperSport7.al" ,SuperSport 7
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174441
 
-#EXTINF:-1  tvg-name="WORLD CUP🏆" tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png" group-title="IPTV", TVRI Sport 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://urfan.id/logo/tvrisport.png" group-title="WORLD CUP🏆", TVRI Sport 
 http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ČT sport.cz" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dbd9b667539ebef66e36b1439519004.png" ,CT Sport
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174685
