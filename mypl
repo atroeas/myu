@@ -442,14 +442,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
 
 #EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Sports", TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Sports", TSN 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%201%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ2LnRz
-https://7pal.short.gy/tsn1ca
+http://myxpanel.pro/live/Melo/Melo/3996.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -625,24 +618,32 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="WORLD CUP🏆",Arena Premium 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
 
-#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD CUP🏆", TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Sports", TSN 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%201%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ2LnRz
-https://7pal.short.gy/tsn1ca
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://e7.pngegg.com/pngimages/1015/488/png-clipart-now-tv-logo-hong-kong-now-com-hk-television-cignal-logo-television-angle.png" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW TV 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+#EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD CUP🏆", TSN 1
+http://myxpanel.pro/live/Melo/Melo/3996.ts
+
 #EXTINF:-1 tvg-id="TSN4HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="WORLD CUP🏆", TSN 4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%204%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQzLnRz
-https://7pal.short.gy/tsn4ca
+http://myxpanel.pro/live/Melo/Melo/3993.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fussball TV1
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/SJ7NFS6lAKHXwQOn1O5aSXkruPw4ozC0PdtFiYwmO9LOmoyTuYktEkGgpLuhI1avYNe6ZTCT_YqcnJDsRRdIvyTQK7GnnoxFghYa9tpBCHSiPdyqng" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fussball TV2
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://pbs.twimg.com/media/HKg6g4laEAAHDVq.jpg" tvg-uid="ee3e467eb677f18a797efa9f6ab74761",Unite8 Sports 1
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-id="Unite8 Sports 2" tvg-logo="https://pbs.twimg.com/media/HKg6g4laEAAHDVq.jpg" tvg-uid="4fe50335234ae668dbe6eaeb0f0df7da",Unite8 Sports 2
+http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-id="VTV6 HD.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" tvg-uid="1784c656c4caad0743e47805bc94dea7",VTV6
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
 
 #EXTINF:-1 tvg-id="SuperSport2.al" group-title="WORLD CUP🏆" tvg-logo="https://images.open-epg.com/20858.png" tvg-id="SuperSport2.al" ,SuperSport 2
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1312
