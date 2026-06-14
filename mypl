@@ -621,7 +621,7 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
 #EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/xXfxE0hXSM43K9fgrFBSlss5peU-vLZuaahRS_i3n-6uOx0sfw3OxXfSqryYrxqOKrSatyLpPIHKqKUBqVHPQtksWrNgBRMuxWJF3dQuvdXscesBwhxeG06s" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW TV 4K
+#EXTINF:-1 tvg-id="NowSports4K616.hk" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/xXfxE0hXSM43K9fgrFBSlss5peU-vLZuaahRS_i3n-6uOx0sfw3OxXfSqryYrxqOKrSatyLpPIHKqKUBqVHPQtksWrNgBRMuxWJF3dQuvdXscesBwhxeG06s" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW TV 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD CUP🏆", TSN 1
