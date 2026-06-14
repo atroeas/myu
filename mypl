@@ -618,7 +618,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="WORLD CUP🏆",Arena Premium 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
 
-#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
+#EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://i.postimg.cc/9QZy78rM/image.png" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW TV 4K
@@ -630,10 +630,10 @@ http://myxpanel.pro/live/Melo/Melo/3996.ts
 #EXTINF:-1 tvg-id="TSN4HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="WORLD CUP🏆", TSN 4
 http://myxpanel.pro/live/Melo/Melo/3993.ts
 
-#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fussball TV1
+#EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/BZu-iMMMELTUuN8PKkqwgBv0zsFfFRtYf4ZO5dUg76G6MowvFMJjXyaS13q3eqZaol9SOMQOuoQPSAcavT6AzS_KA9Fst7_NQL5oUfrBbmnToQ56PA" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fussball TV1
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
-#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/SJ7NFS6lAKHXwQOn1O5aSXkruPw4ozC0PdtFiYwmO9LOmoyTuYktEkGgpLuhI1avYNe6ZTCT_YqcnJDsRRdIvyTQK7GnnoxFghYa9tpBCHSiPdyqng" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fussball TV2
+#EXTINF:-1 tvg-id="FUSSBALLTV2.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/SJ7NFS6lAKHXwQOn1O5aSXkruPw4ozC0PdtFiYwmO9LOmoyTuYktEkGgpLuhI1avYNe6ZTCT_YqcnJDsRRdIvyTQK7GnnoxFghYa9tpBCHSiPdyqng" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fussball TV2
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-uid="ee3e467eb677f18a797efa9f6ab74761",Unite8 Sports 1
