@@ -545,7 +545,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="WORLD CUP🏆",Arena Premium 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
 
-#EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" tvg-uid="662a45a3228fee015f53b3c37dd805a1",FUSSEBALL TV1 UHD 4K
+#EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" tvg-uid="662a45a3228fee015f53b3c37dd805a1",Fussball TV1 UHD 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 tvg-id="NowSports4K616.hk" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/xXfxE0hXSM43K9fgrFBSlss5peU-vLZuaahRS_i3n-6uOx0sfw3OxXfSqryYrxqOKrSatyLpPIHKqKUBqVHPQtksWrNgBRMuxWJF3dQuvdXscesBwhxeG06s" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW TV 4K
@@ -562,6 +562,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 #EXTINF:-1 tvg-id="FUSSBALLTV2.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fussball TV2
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/RTB%20Aneka.png" tvg-uid="4d1cd5ae5128781f992a139a829d2c7e", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Go%20Live.png" tvg-uid="4c7d2a2e8283e02a00f2ced9254c813b", GO Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg" tvg-uid="ee3e467eb677f18a797efa9f6ab74761",Unite8 Sports 1
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
