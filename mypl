@@ -572,6 +572,19 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 #EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="WORLD CUP🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,Fox Sports 1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 
+#EXTINF:-1 tvg-id="FUSSBALLTV1.de" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" ,Fussball TV1 (Alt)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1949445
+
+#EXTINF:-1 tvg-id="FUSSBALLTV2.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" ,Fussball TV2 (Alt)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950358
+
+#EXTINF:-1 tvg-id="FUSSBALLTV3.de" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/VBBcOWHNawA1tL4BTIa3Bc3t6RGkQac-spKlhq-FmM2jiasJjKQY1jyrs6LPAhjY80qDrYVgzlM42ACE9R74F-75cjqptqImuNfssAhNIabrcAqBqw" ,Fussball TV3 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951087
+
+
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/RTB%20Aneka.png" tvg-uid="4d1cd5ae5128781f992a139a829d2c7e", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
