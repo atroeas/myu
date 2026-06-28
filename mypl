@@ -159,10 +159,10 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/197972
+http://103.148.44.38:8000/play/a09a/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/196480
+http://103.148.44.38:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/221948
@@ -171,7 +171,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/221948
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/197055
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/197964
+http://103.148.44.38:8000/play/a09e/index.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/500px-Logo_tvN.svg.png" group-title="MOVIES", tvN
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
