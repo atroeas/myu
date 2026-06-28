@@ -584,8 +584,7 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 
 #EXTINF:-1 tvg-id="FUSSBALLTV1.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" ,Fussball TV1 (Alt)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1949445
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
 
 #EXTINF:-1 tvg-id="FUSSBALLTV2.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" ,Fussball TV2 (Alt)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
