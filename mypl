@@ -630,19 +630,5 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #EXTINF:-1 tvg-id="ČT sport.cz" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dbd9b667539ebef66e36b1439519004.png" ,CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-
-#EXTINF:-1 tvg-uid="96b97e94fcce175ae81e3528dbcb7849" tvg-name="Caze TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/500px-Caz%C3%A9TV_logo.svg.png" group-title="WORLD CUP🏆", CAZE TV (BRAZIL)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 data-source="Manual" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/500px-Caz%C3%A9TV_logo.svg.png" group-title="WORLD CUP🏆" tvg-uid="46cb9a725f015ec76b9d409971579363",CAZE TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 data-source="Manual" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/500px-Caz%C3%A9TV_logo.svg.png" group-title="WORLD CUP🏆" tvg-uid="31ca119cd01674846d350f4c36c708e4",CAZE TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
 #EXTINF:-1 tvg-id="TVP Sport.pl" tvg-logo="https://images.open-epg.com/17034686.png" group-title="WORLD CUP🏆",TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
