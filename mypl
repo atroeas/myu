@@ -562,6 +562,18 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-id="NowSports4K616.hk" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://iptv-epg.org/images/xXfxE0hXSM43K9fgrFBSlss5peU-vLZuaahRS_i3n-6uOx0sfw3OxXfSqryYrxqOKrSatyLpPIHKqKUBqVHPQtksWrNgBRMuxWJF3dQuvdXscesBwhxeG06s" tvg-uid="3af0c0ee9a250b43bc461c5b9eb60949", NOW Sports 616 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
+#EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fox%20One.png" tvg-uid="dcc55ebed46c4769da92ed68f6c5c500",FOX 4K (HEVC)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st
+#EXTVLCOPT:http-origin=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="TSN54K.ca" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://images.open-epg.com/x1364.png" tvg-uid="1b6dc3dbe0c3b1bc8da19928af925aa4",TSN 4K
+#EXTVLCOPT:http-referrer=https://xyzstreams.st
+#EXTVLCOPT:http-origin=https://xyzstreams.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8
+
 #EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="WORLD CUP🏆", TSN 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
@@ -600,7 +612,7 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1951087
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fox%20One.png" tvg-uid="8a4953b152ce41bf62065f2d247e0616",FOX ONE (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/RTB%20Aneka.png" tvg-uid="4d1cd5ae5128781f992a139a829d2c7e", RTB Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
