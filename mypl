@@ -43,7 +43,7 @@ http://202.169.224.202:8800/udp/239.4.1.2:1234
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://images.open-epg.com/30571.png" group-title="INDONESIA",TVRI 
-https://digital.tsender57.workers.dev/7a02027004/play/a03t/index.m3u8
+http://103.170.100.42:6799/stream/channelid/21976998?profile=pass
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png", Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -552,7 +552,7 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174441
 
 ----------------------------------------------WORLD CUP🏆----------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="WORLD CUP🏆", TVRI Sport 
-http://103.148.44.38:8000/play/a05u/index.m3u8
+http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="WORLD CUP🏆",Arena Premium 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
@@ -585,7 +585,7 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fc-hd/
 
 
 #EXTINF:-1 tvg-id="FUSSBALLTV1.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fussball TV1
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
 
 #EXTINF:-1 tvg-id="FUSSBALLTV2.de" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" tvg-uid="6b232b464d32a714320dc85a1ece2c8b",Fussball TV2
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
@@ -600,7 +600,7 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 
 #EXTINF:-1 tvg-id="FUSSBALLTV1.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" ,Fussball TV1 (Alt)
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
 #EXTINF:-1 tvg-id="FUSSBALLTV2.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" ,Fussball TV2 (Alt)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
