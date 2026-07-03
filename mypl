@@ -569,7 +569,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://inproviszon.st/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-id="TSN54K.ca" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://images.open-epg.com/x1364.png" tvg-uid="1b6dc3dbe0c3b1bc8da19928af925aa4",TSN 4K
+#EXTINF:-1 tvg-id="TSN4HD.ca" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://images.open-epg.com/x1364.png" tvg-uid="1b6dc3dbe0c3b1bc8da19928af925aa4",TSN 4K
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
 #EXTVLCOPT:http-origin=https://xyzstreams.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
