@@ -600,6 +600,11 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 #EXTINF:-1 tvg-id="FUSSBALLTV1.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" ,Fussball TV1 (Alt)
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
+#EXTINF:-1 tvg-id="FUSSBALLTV1.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%201.png" ,FUSSBALL TV 1 FHD DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a31573b71500528fb12a56c/playlist.m3u8?token=NmEzMTU3M2I3MTUwMDUyOGZiMTJhNTZjOjE3ODMyMjM2ODUyOTU6Y2RubGl2ZXR2LnR2OmQ2ZmNkYzcwYjE5ODk1YTMuNDViMTU3YjViNTc0YzAxYjg3MzI4NzUzNmM1NzE0MWEyOWQ4MDU3ZDQzYjlhMzZjZGIxYTY5ZjVkZWU5MWRhNQ
+
 #EXTINF:-1 tvg-id="FUSSBALLTV2.de" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fusball%20TV%202.png" ,Fussball TV2 (Alt)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950358
