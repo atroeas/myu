@@ -172,7 +172,12 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/221948
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/197055
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
-http://103.148.44.38:8000/play/a09e/index.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/500px-Logo_tvN.svg.png" group-title="MOVIES", tvN
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
