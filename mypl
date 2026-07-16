@@ -531,10 +531,11 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Fox%20One.png" tvg-uid="dcc55ebed46c4769da92ed68f6c5c500",FOX 4K (HEVC)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st
-#EXTVLCOPT:http-origin=https://xyzstreams.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://inproviszon.st/fox4k-usa.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN4HD.ca" data-source="Manual" group-title="WORLD CUP🏆" tvg-logo="https://images.open-epg.com/x1364.png" tvg-uid="1b6dc3dbe0c3b1bc8da19928af925aa4",TSN 4K
 #EXTVLCOPT:http-referrer=https://xyzstreams.st
