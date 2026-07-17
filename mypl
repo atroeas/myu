@@ -502,21 +502,6 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
-#EXTINF:-1 tvg-id="SuperSport1.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20857.png" tvg-id="SuperSport1.al" ,SuperSport 1
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1316
-#EXTINF:-1 tvg-id="SuperSport2.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20858.png" tvg-id="SuperSport2.al" ,SuperSport 2
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1312
-#EXTINF:-1 tvg-id="SuperSport3.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20859.png" tvg-id="SuperSport3.al" ,SuperSport 3
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1319
-#EXTINF:-1 tvg-id="SuperSport4.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20860.png" tvg-id="SuperSport4.al" ,SuperSport 4
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1318
-#EXTINF:-1 tvg-id="SuperSport5.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20861.png" tvg-id="SuperSport5.al" ,SuperSport 5
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1860
-#EXTINF:-1 tvg-id="SuperSport6.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20862.png" tvg-id="SuperSport6.al" ,SuperSport 6
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/3638
-#EXTINF:-1 tvg-id="SuperSport7.al" group-title="SuperSport" tvg-logo="https://images.open-epg.com/20863.png" tvg-id="SuperSport7.al" ,SuperSport 7
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/174441
-
 ----------------------------------------------WORLD CUP🏆----------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="WORLD CUP🏆", TVRI Sport 
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
