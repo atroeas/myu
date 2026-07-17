@@ -574,5 +574,5 @@ http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 #EXTINF:-1 tvg-id="ČT sport.cz" group-title="WORLD CUP🏆" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2dbd9b667539ebef66e36b1439519004.png" ,CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Dazn%20Mundial.png" group-title="WORLD CUP🏆",Dazn Mundial 1 fhd
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/Dazn%20Mundial.png" group-title="WORLD CUP🏆",DAZN MUNDIAL 1 FHD
 http://myxpanel.pro/live/13579/13579/838108.ts
