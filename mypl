@@ -98,11 +98,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://ayo.maling.pl/Vision/index.mpd?id=10
 
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -259,7 +258,10 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 ---------------------------------------------------KNOWLEDGE-----------------
 
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE",Animal Planet
-http://202.169.224.202:8800/udp/239.9.1.7:1234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
 http://neosfpoo.top:8080/87177817203686/8t33qt3rew2b/72292
