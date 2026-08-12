@@ -252,7 +252,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
 #EXTINF:-1 tvg-id="Warner.id" tvg-logo="https://www.transvision.co.id/img/channel/warner.png" group-title="MOVIES",Warner
-https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/master.mpd|User-Agent=referrer=https://www.indihometv.com
 
  
 ---------------------------------------------------KNOWLEDGE-----------------
