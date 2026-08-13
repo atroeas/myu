@@ -135,7 +135,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO TV
+#EXTINF:0 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -144,7 +144,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits TV
+#EXTINF:0 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -152,13 +152,19 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:0 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family TV
+#EXTINF:0 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
 #EXTINF:0 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -498,6 +504,9 @@ https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp6
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="https://images.open-epg.com/3629.png" group-title="SPORTS",SKY SPORTS F1
 https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula16.m3u8
 
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="https://images.open-epg.com/3629.png" group-title="SPORTS",SKY SPORTS F1 4K
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kskyf1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="SPORTS", TVRI Sport 
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
 
@@ -536,264 +545,3 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbofamil
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HbosignatureID.m3u8
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kastro.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kastro.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kbein.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kbein.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kdiggi.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kdiggi.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4keleven.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4keleven.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4khubsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4khubsport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4knowsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4knowsport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kskyf1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kskyf1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kskymainevent.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kskymainevent.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kskypl.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kskypl.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4ksporttv.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4ksporttv.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", 4kvsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kvsport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Bulutangkis1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Bulutangkis1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Bulutangkis2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Bulutangkis2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Formula1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Formula1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Formula2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Formula2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Golf1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Golf1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Golf2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Golf2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", La Liga 1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/La Liga 1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", La Liga 2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/La Liga 2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Liga Inggris 1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Liga Inggris 1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Liga Inggris 2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Liga Inggris 2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Liga Italia 1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Liga Italia 1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Liga Italia 2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Liga Italia 2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", MotoGP1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/MotoGP1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", MotoGP2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/MotoGP2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nba1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nba1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nba2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nba2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass10.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass10.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass11.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass12.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass12.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass6.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass7.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass8.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nbapass9.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nbapass9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", RallyMania.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/RallyMania.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Tennis1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Tennis1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Tennis2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Tennis2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Tinju1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Tinju1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Tinju2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Tinju2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Ufc1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Ufc1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Ufc2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Ufc2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Volly1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Volly1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Volly2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Volly2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Wwe1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Wwe1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Wwe2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Wwe2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", ASport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/ASport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroArena1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroArena1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroArena2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroArena2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroBadminton.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroBadminton.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroBadmintonB.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroBadmintonB.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroBola1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroBola1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroBola2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroBola2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSS1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSS1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSS2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSS2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSS3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSS3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSS4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSS4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSSB1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSSB1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSSB2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSSB2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSSB3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSSB3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", AstroSSB4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/AstroSSB4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Astrocricket.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Astrocricket.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", BeinAsia1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/BeinAsia1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", BeinAsia2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/BeinAsia2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", BeinAsia3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/BeinAsia3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Cbcsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Cbcsport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Cctv5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Cctv5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Hubsport1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Hubsport1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Hubsport2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Hubsport2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Hubsport3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Hubsport3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HubsportPL1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/HubsportPL1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HubsportPL2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/HubsportPL2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HubsportPL3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/HubsportPL3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HubsportPL4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/HubsportPL4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HubsportPL5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/HubsportPL5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport4K.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport4K.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport6.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Nowsport7.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Nowsport7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPL1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPL1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPL2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPL2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPL3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPL3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPL4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPL4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPL5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPL5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPlus.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPlus.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", NowsportPrime.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/NowsportPrime.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Onesport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Onesport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Persianasport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Persianasport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", PptvTh.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/PptvTh.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Ptvsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Ptvsport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sonyten1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sonyten1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sonyten2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sonyten2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sonyten3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sonyten3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sonyten4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sonyten4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sonyten5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sonyten5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Sport18.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Sport18.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", SpotvStadia.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/SpotvStadia.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", SpotvStadia2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/SpotvStadia2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Starsport1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Starsport1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Starsport2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Starsport2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Starsport3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Starsport3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", StarsportSelect1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/StarsportSelect1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", StarsportSelect2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/StarsportSelect2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TSport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TSport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Tensport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Tensport.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", True7.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/True7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TrueBein1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TrueBein1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TrueBein2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TrueBein2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TrueBein3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TrueBein3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TruePL1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TruePL1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TruePL2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TruePL2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TruePL3.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TruePL3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TruePL4.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TruePL4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TruePL5.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TruePL5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TrueSpotv1.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TrueSpotv1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", TrueSpotv2.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/TrueSpotv2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", Wsport.m3u8
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Wsport.m3u8
