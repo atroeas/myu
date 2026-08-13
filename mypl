@@ -328,7 +328,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl7.m3u8
+https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/Skysportmainevent.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl9.m3u8
@@ -362,6 +362,9 @@ http://neosfpoo.top:8080/87177817203686/8t33qt3rew2b/25026
 
 #EXTINF:-1:-1 tvg-id="DAZN 4.pt" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="LIGA INGGRIS", DAZN 4
 http://neosfpoo.top:8080/87177817203686/8t33qt3rew2b/25027
+
+#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
+https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
@@ -495,16 +498,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://images.open-epg.com/19409.png" group-title="Sports",SKY SPORTS MOTO GP
-http://wickediptv.xyz/Randall123/Randall321/285973
-http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136488
-#http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/105837.m3u8
+https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp6.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="https://images.open-epg.com/3629.png" group-title="Sports",SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3ODQ3NDQ0MjQ5MTY6Y2RubGl2ZXR2LnR2OmI0YTI1MDcwODhhYzA2OTMuMzQ2NGUzNGQxMmY4ZjExOGQxYzRjYmIyNTdiOWJlODBiOWRkMmRlOTBiODUzYjNlNWJiN2RkMWYwMTI1NGQyMg
+https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula16.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="Sports", TVRI Sport 
 http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass
@@ -533,36 +531,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HboID.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HbocinemaxID.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HbofamilyID.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HbohitsID.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", HbosignatureID.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", FUBO
-https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", FUBO2
-https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", fformula11.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", fformula13.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula13.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", fformula14.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula14.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", fformula15.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula15.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", fformula16.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/fformula16.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp1.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp2.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp3.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp4.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp5.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp6.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="cOBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png", mmotogp7.m3u8
-https://raw.githubusercontent.com/B-inal-123/balapan/refs/heads/inal-22/mmotogp7.m3u8
 
 
