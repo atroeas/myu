@@ -376,7 +376,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
 
 #EXTINF:-1 tvg-id="Arena Premium 3.rs" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SERIE A", ARENA PREMIUM 3
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26461
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda6.m3u8
 
 #EXTINF:0 tvg-id="Bein.2.id" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/1752576028271-bein_sports_2_100X56.png" group-title="Sports",beIN Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
