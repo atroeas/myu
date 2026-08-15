@@ -392,6 +392,10 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda6.m3u8
 
 
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" group-title="SERIE A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" ,Sky Sport Calcio
+https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITcalcio00.m3u8
+
+
 -----------------------------------------------SPORTS-----------------------------------
 
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",beIN Sports 2
@@ -544,29 +548,5 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LIGA ITALI 5
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali5.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LIGA ITALI 6
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali6.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LIGA ITALI 7
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali7.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LIGA ITALI 8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali8.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LIGA ITALI 9
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali9.m3u8
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,SS CALCIO
-https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITcalcio00.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,SS Austria
+https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/SkySportAU2.m3u8
