@@ -135,7 +135,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -147,7 +147,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -158,7 +158,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-327770703
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
-#EXTINF:0 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -172,7 +172,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbofamil
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
-#EXTINF:0 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -181,7 +181,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+#EXTINF:0 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
