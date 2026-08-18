@@ -144,7 +144,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
+#EXTINF:1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
 
@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
@@ -167,10 +167,10 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg"" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
@@ -190,7 +190,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
