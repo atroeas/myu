@@ -281,7 +281,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/natgeo00.m3u8
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="NatGeoWild.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NATIONAL GEOGRAPHIC WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
