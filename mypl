@@ -266,6 +266,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.m
 #EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://www.transvision.co.id/img/channel/warner.png" group-title="MOVIES",Warner
 https://cdnbal1.indihometv.com/atm/DASH/warner/master.mpd|User-Agent=referrer=https://www.indihometv.com
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84o0kLt.jpeg" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 
+
 ---------------------------------------------------KNOWLEDGE-----------------
 
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE",Animal Planet
