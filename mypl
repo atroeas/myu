@@ -321,7 +321,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 ------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4kastro.m3u8
+https://github.com/B-inal-123/s-asia/blob/inal-22/AstroArena1.m3u8
 
 #EXTINF:-1 tvg-id="Astro Premier League.my" group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/330px-Astro_Premier_League_1_%282024%29.png", ASTRO PREMIER LEAGUE 1
 https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/Liga%20Inggris%201.m3u8
@@ -381,6 +381,15 @@ http://neosfpoo.top:8080/87177817203686/8t33qt3rew2b/25027
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
+
+#EXTINF:-1 tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/876aok1784549287.jpg" group-title="LIGA INGGRIS”, USA NETWORK
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/channel/pl/2026-08-22/hul-mun/usa-network-en-us.m3u8
+
+#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB SPORT 4K
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4khubsport.m3u8
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
