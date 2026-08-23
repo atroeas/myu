@@ -274,69 +274,26 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
 
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel1/playlist.m3u8
+http://202.150.161.212:5000/live/channel40/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel2/playlist.m3u8
+http://202.150.161.212:5000/live/channel41/playlist.m3u8
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel3/playlist.m3u8
+http://202.150.161.212:5000/live/channel42/playlist.m3u8
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel4/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel5/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel6/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel7/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel8/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel9/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel10/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel11/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel12/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel13/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel14/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel15/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel16/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel17/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel18/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel19/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel20/playlist.m3u8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
-http://202.150.161.212:5000/live/channel21/playlist.m3u8
+http://202.150.161.212:5000/live/channel43/playlist.m3u8
+
+
 
 
 ---------------------------------------------------KNOWLEDGE-----------------
