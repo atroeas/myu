@@ -345,11 +345,20 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
-https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/Skysportmainevent.m3u8
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905852&extension=ts
+#http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/346382
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE)
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl9.m3u8
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310091
+http://panel.pro2box.cc/456876/bpMnYZA/243798
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350425
 
 #EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
@@ -392,11 +401,14 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl2
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PL (UK)
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
-#EXTINF:-1 tvg-id="ViaplayTV.nl" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/3865258.png" ,VIAPLAY
+
+#EXTINF:-1 tvg-id="V sport premium HD (T).se" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/7823.png" ,V SPORT PREMIUM
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl12.m3u8
-#EXTINF:-1 tvg-id="VSportPremierLeague.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161729.png" ,VSPORT PREMIER LEAGUE
+
+#EXTINF:-1 tvg-id="VSportPremierLeague.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161729.png" ,V SPORT PREMIER LEAGUE
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl13.m3u8
-#EXTINF:-1 tvg-id="VSportPremierLeague1.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161730.png" ,VSPORTS
+
+#EXTINF:-1 tvg-id="VSportPremierLeague1.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161730.png" ,V SPORT PREMIER LEAGUE 1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl14.m3u8
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
