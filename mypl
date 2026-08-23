@@ -393,7 +393,7 @@ http://neosfpoo.top:8080/87177817203686/8t33qt3rew2b/25027
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
 
-#EXTINF:-1 tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://usanetwork.asset.viewlift.com/images/brand/2025/06/23/Logo_USA-1750687019613.png" group-title="LIGA INGGRIS", USA NETWORK
+#EXTINF:-1 tvg-id="USA Network HD - Pacific (1125).us" tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://images.open-epg.com/9411980.png" group-title="LIGA INGGRIS", USA NETWORK
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
