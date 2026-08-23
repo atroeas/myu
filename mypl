@@ -337,16 +337,13 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl4
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
-#EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS",Hub Premier 2 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/375px-NBCUniversal_Peacock_Logo.svg.png", PEACOCK
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/Skysportmainevent.m3u8
 
-#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE)
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl9.m3u8
 
 #EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
@@ -386,10 +383,16 @@ https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSpor
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/channel/pl/2026-08-22/hul-mun/usa-network-en-us.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl2.m3u8
 
-#EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB SPORT 4K
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4khubsport.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PL (UK)
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
+#EXTINF:-1 tvg-id="ViaplayTV.nl" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/3865258.png" ,VIAPLAY
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl12.m3u8
+#EXTINF:-1 tvg-id="VSportPremierLeague.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161729.png" ,VSPORT PREMIER LEAGUE
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl13.m3u8
+#EXTINF:-1 tvg-id="VSportPremierLeague1.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161730.png" ,VSPORTS
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl14.m3u8
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
@@ -435,6 +438,12 @@ https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS",Hub Premier 2 FHD
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
+
+#EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS",Hub Premier 2 4K
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4khubsport.m3u8
 
 #EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORTS",Hub Premier 3 FHD
 https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/HubsportPL3.m3u8
@@ -557,186 +566,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 #EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,SS Austria
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/SkySportAU2.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa10.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa10.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa11.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa12.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa12.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa13.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa13.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa14.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa14.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa15.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa15.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,2024EvenEropa9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/2024EvenEropa9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,LigaBelanda9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL10.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL10.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,VollyVNL9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,bbundesliga8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/bbundesliga8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship10.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship10.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship11.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship12.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship12.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship13.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship13.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship14.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship14.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship15.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship15.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship16.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship16.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship17.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship17.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship18.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship18.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship19.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship19.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship20.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship20.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship21.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship21.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship22.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship22.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship23.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship23.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship24.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship24.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,championship9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/championship9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl10.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl10.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl11.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl12.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl12.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl13.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl13.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl14.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl14.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl15.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl15.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,eepl9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl9.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,llaliga1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/llaliga1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,llaliga2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/llaliga2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,llaliga3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/llaliga3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali1.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali1.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali11.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali11.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali2.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali2.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali3.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali3.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali4.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali4.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali5.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali5.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali6.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali6.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali7.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali7.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali8.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali8.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="COB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,lligaitali9.m3u8
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/lligaitali9.m3u8
