@@ -264,11 +264,80 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
 #EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://www.transvision.co.id/img/channel/warner.png" group-title="MOVIES",Warner
-https://cdnbal1.indihometv.com/atm/DASH/warner/master.mpd|User-Agent=referrer=https://www.indihometv.com
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84o0kLt.jpeg" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel4/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel5/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel6/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel7/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel8/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel9/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel10/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel11/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel12/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel13/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel14/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel15/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel16/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel17/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel18/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel19/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel20/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180811/aav/ddb009144338717fc078da28acc058fc.webp" group-title="Transvision", MDTv
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+
 
 ---------------------------------------------------KNOWLEDGE-----------------
 
