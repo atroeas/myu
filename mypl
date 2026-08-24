@@ -588,5 +588,5 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fox Sports 1.us" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/500px-2015_Fox_Sports_1_logo.svg.png" ,SS Austria
+#EXTINF:-1 tvg-id="SkySportAustria1.at" group-title="SPORTS" tvg-logo="https://images.open-epg.com/40666.png" ,SS Austria
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/SkySportAU2.m3u8
