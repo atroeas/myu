@@ -396,6 +396,9 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&exte
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+#EXTINF:-1 tvg-id="Canal+ Foot.fr"  tvg-logo="https://images.open-epg.com/779941.png" group-title="LIGA INGGRIS",CANAL+ FOOT
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr"  tvg-logo="https://images.open-epg.com/19984522.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/506556.m3u8
 
