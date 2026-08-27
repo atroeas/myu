@@ -415,13 +415,14 @@ https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSpor
 
 
 #EXTINF:-1 tvg-id="V sport premium HD (T).se" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/7823.png" ,V SPORT PREMIUM
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl12.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294056.m3u8
 
 #EXTINF:-1 tvg-id="VSportPremierLeague1.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161730.png" ,V SPORT PREMIER LEAGUE 1
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001365.m3u8
 
 #EXTINF:-1 tvg-id="V sport ultra HD (T).se" tvg-uid="7cc98e68dda12fa8081dfa7665892920" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/2255.png", V SPORT 4k
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1749221.m3u8
+
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
