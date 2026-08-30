@@ -134,7 +134,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 --------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbohd.ph" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -142,12 +142,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbohd.ph" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbohits.ph" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -155,10 +155,10 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbohits.ph" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
-#EXTINF:-1 tvg-id="Cg Hbofam.ph" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -166,13 +166,13 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="Cg Hbofam.ph" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbosign.ph"" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Hbosign.ph" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -181,7 +181,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 
-#EXTINF:0 group-title="MOVIES" tvg-id="Cg Cinemax.ph" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+#EXTINF:0 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -189,7 +189,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cg Cinemax.ph" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -423,6 +423,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 tvg-id="V sport ultra HD (T).se" tvg-uid="7cc98e68dda12fa8081dfa7665892920" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/2255.png", V SPORT 4k
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1749221.m3u8
 
+#EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="121f2ff3f76f127f0c213e310d01e0d4" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", NOW SPORTS PREMIER LEAGUE 4K
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948624.m3u8
 
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
