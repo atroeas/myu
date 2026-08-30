@@ -32,6 +32,9 @@ http://ikitv.sqn.at:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
 http://ikitv.sqn.at:8000/play/a019/index.m3u8
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7 coba
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/trans7.m3u8
+
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -349,7 +352,7 @@ http://panel.pro2box.cc/456876/bpMnYZA/243798
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350425
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PL (UK)
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/79473.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -367,7 +370,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl2.m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LIGA INGGRIS",DAZN 1
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/107495.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/107494.m3u8
@@ -401,7 +404,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94140
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr"  tvg-logo="https://images.open-epg.com/19984522.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/506556.m3u8
 
-#EXTINF:-1 tvg-id="Novasports Premier League.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1432151.m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
@@ -604,25 +607,31 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 #EXTINF:-1 tvg-id="beIN 4K.qa" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,BEIN 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948627.m3u8
 
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTPREMIUM.png", SWE| V SPORT PREMIUM
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294085.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTPREMIUM.png", SWE| V SPORT PREMIUM HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294055.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTPREMIUM.png", SWE| V SPORT PREMIUM HEVC
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294056.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTULTRA.png", SWE| V SPORT ULTRA
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/758757.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTULTRA.png", SWE| V SPORT ULTRA HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/466361.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTULTRA.png", SWE| V SPORT ULTRA HEVC
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294069.m3u8
-#EXTINF:-1 group-title="SWEDEN SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORTULTRA.png", SWE| V SPORT ULTRA HEVC 4K+
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294070.m3u8
-#EXTINF:-1 group-title="NORWAY SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/VSPORTPL2.png", NOR| V SPORT PL 2 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001364.m3u8
-#EXTINF:-1 group-title="NORWAY SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/VSPORTPL3.png", NOR| V SPORT PL 3 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001363.m3u8
-#EXTINF:-1 group-title="NORWAY SPORT HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/VSPORTPL.png", NOR| V SPORT PL 4 FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001362.m3u8
-#EXTINF:-1 group-title="FINLAND PLAY+ RAW" tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1921635.png", FI| V SPORT PREMIUM ᴴᴰ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1921635.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png", UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1458669.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png", UK| SKY SPORTS PREMIER LEAGUE HEVC
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1458656.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1905844.png", UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1905844.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1905842.png", UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1905842.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1905843.png", UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1905843.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032479.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032478.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032477.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032476.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 616
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032489.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 4K 617
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032488.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 5
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032475.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 6
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032474.m3u8
+#EXTINF:-1 group-title="UK| SPORTS HEVC"" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png", UK| NOW HK NOW SPORTS 7
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032473.m3u8
