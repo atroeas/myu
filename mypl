@@ -626,9 +626,3 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001362.m3u8
 #EXTINF:-1 group-title="FINLAND PLAY+ RAW" tvg-logo="http://51.158.145.100/picons/logos/FINLAND/1921635.png", FI| V SPORT PREMIUM ᴴᴰ
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1921635.m3u8
-
-#EXTINF:-1 tvg-uid="121f2ff3f76f127f0c213e310d01e0d4" data-source="Macportal3" group-title="ðŸ‡®ðŸ‡© BONE TV 4K UHD ðŸ“º" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png", 4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM | BONE TV
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948624.m3u8
-
-#EXTINF:-1 tvg-uid="3cb4212298ed88c2dbfe032c69bc6ae4" data-source="Macportal3" group-title="ðŸ‡®ðŸ‡© BONE TV 4K UHD ðŸ“º" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png", 4K| NOW SPORTS HK UHD/4K | BONE TV
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948636.m3u8
