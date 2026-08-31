@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id@SD" group-title="INDONESIA",Indosiar
-http://103.148.44.38:8000/play/a05c/index.m3u8
+http://ikitv.sqn.at:8000/play/a52/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
 https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/4.ts
@@ -14,8 +14,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
 http://202.169.224.202:8800/udp/239.1.1.1:1234
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://103.148.44.38:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
+http://ikitv.sqn.at:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/2.ts
