@@ -1,205 +1,44 @@
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Animalplanet
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainAnimalplanet.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Aniplus
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainAniplus.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Antv
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainAntv.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", BioskopIndonesia
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainBioskopIndonesia.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Flik
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainFlik.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", HboID
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainHboID.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", HbocinemaxID
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainHbocinemaxID.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", HbofamilyID
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainHbofamilyID.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", HbohitsID
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainHbohitsID.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", HbosignatureID
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainHbosignatureID.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Timnasday
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainTimnasday.jpg
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", TvriSport
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainTvriSport.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", W-sport
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainW-sport.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", ctv1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainctv1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", ctv2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainctv2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", ctv3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainctv3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", discovery00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maindiscovery00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", discoveryhistory00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maindiscoveryhistory00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", discoveryinvestigation00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maindiscoveryinvestigation00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", discoveryscience00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maindiscoveryscience00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", discoveryturbo00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maindiscoveryturbo00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", etvbioskop1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainetvbioskop1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", etvbioskop2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainetvbioskop2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", etvbioskop3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainetvbioskop3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", etvbioskop4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainetvbioskop4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", gtv
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maingtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", hgtv00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainhgtv00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", indosiarTV
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainindosiarTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", indosiarTV2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainindosiarTV2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", indosiarTV3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainindosiarTV3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", jowotv
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainjowotv.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", mentariTV
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainmentariTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", mnctv
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainmnctv.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", mojiTV
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainmojiTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", mojiTV2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainmojiTV2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", mojiTV3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainmojiTV3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", natgeo00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainnatgeo00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", natgeowild00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainnatgeowild00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", rcti
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainrcti.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", sctvTV
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainsctvTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", sctvTV2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainsctvTV2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", sctvTV3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainsctvTV3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas5
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas5.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas6
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas6.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", timnas7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintimnas7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", trans7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintrans7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", trans72
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintrans72.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", transtv
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintranstv.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", tvrisport00
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maintvrisport00.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", warkopdki
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainwarkopdki.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl10
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl10.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl11
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl11.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl12
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl12.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl13
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl13.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl14
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl14.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl15
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl15.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl5
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl5.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl6
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl6.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl8
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl8.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", eepl9
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/maineepl9.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga5
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga5.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga6
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga6.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", llaliga7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainllaliga7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali10
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali10.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali11
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali11.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali5
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali5.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali6
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali6.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali8
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali8.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", lligaitali9
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainlligaitali9.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls1
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls1.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls10
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls10.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls11
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls11.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls12
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls12.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls13
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls13.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls14
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls14.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls15
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls15.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls2
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls2.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls3
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls3.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls4
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls4.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls5
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls5.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls6
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls6.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls7
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls7.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls8
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls8.m3u8
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="COBA", Mls9
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/mainMls9.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/960px-Astro_Premier_League_1_%282024%29.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
+#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
 
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
+#http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
+#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague2.m3u8
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
+#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
+#https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#http://107.175.220.4:11799/go_assp1/playlist.m3u8
+#https://freeiptv2026.bonetv.my.id/live/astro_pl
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
+#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=m3u8
+#https://github.com/cattviptv2605/sportworld/raw/main/astropremierleague2.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#http://107.175.220.4:11799/go_assp2/playlist.m3u8
+#https://freeiptv2026.bonetv.my.id/live/astro_pl2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/FrEy3h36FSjTRxaGkFzsUe-650-80.jpg" group-title="LIGA INGGRIS",NBC UNIVERSO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="LIGA INGGRIS",NOVA SPORTS PL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+#https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
