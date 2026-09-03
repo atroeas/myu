@@ -2,30 +2,30 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/960px-Astro_Premier_League_1_%282024%29.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
-#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague.m3u8
 
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
-#http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
-#https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague2.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29150.m3u8
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AstroPremierLeague2.m3u8
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",ASTRO PREMIER LEAGUE
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
-#https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#http://107.175.220.4:11799/go_assp1/playlist.m3u8
-#https://freeiptv2026.bonetv.my.id/live/astro_pl
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775975&extension=m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/main/astropremierleague.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+http://107.175.220.4:11799/go_assp1/playlist.m3u8
+https://freeiptv2026.bonetv.my.id/live/astro_pl
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
-#http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=m3u8
-#https://github.com/cattviptv2605/sportworld/raw/main/astropremierleague2.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#http://107.175.220.4:11799/go_assp2/playlist.m3u8
-#https://freeiptv2026.bonetv.my.id/live/astro_pl2
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1775976&extension=m3u8
+https://github.com/cattviptv2605/sportworld/raw/main/astropremierleague2.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+http://107.175.220.4:11799/go_assp2/playlist.m3u8
+https://freeiptv2026.bonetv.my.id/live/astro_pl2
 
 
 
@@ -36,9 +36,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/FrEy3h36FSjTRxaGkFzsUe-650-80.jpg" group-title="LIGA INGGRIS",NBC UNIVERSO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4bz4tc1659618659.png" group-title="LIGA INGGRIS",NOVA SPORTS PL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-#https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
