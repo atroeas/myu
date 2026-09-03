@@ -594,24 +594,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 #EXTINF:-1 tvg-id="beIN 4K.qa" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,BEIN 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948627.m3u8
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="A",HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="A",HBO HITS
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="A",HBO SIGNATURE
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="A",HBO FAMILY
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="A",CINEMAX
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu.caranytv.workers.dev/trv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|license_type=com.widevine.alpha&license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7&User-Agent=referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|license_type=com.widevine.alpha&license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7&User-Agent=referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
