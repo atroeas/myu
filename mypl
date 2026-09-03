@@ -410,6 +410,13 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="121f2ff3f76f127f0c213e310d01e0d4" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", NOW SPORTS PREMIER LEAGUE 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948624.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-uid="3d68dacdd02044dfe19f6603be00d386" data-source="Sports_1" tvg-logo="https://images.open-epg.com/16296.png" group-title="LIGA INGGRIS",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -438,6 +445,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" group-title="SERIE A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" ,Sky Sport Calcio
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITcalcio00.m3u8
+
 
 
 -----------------------------------------------SPORTS-----------------------------------
