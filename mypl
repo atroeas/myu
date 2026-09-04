@@ -491,31 +491,31 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6685
-https://tvratu.my.id/vid/index.mpd?id=6685
+#https://tvratu.my.id/vid/index.mpd?id=6685
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_Champions_TV_2.png" group-title="SPORTS",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6686
-https://tvratu.my.id/vid/index.mpd?id=6686
+#https://tvratu.my.id/vid/index.mpd?id=6686
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="SPORTS",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6786
-https://tvratu.my.id/vid/index.mpd?id=6786
+#https://tvratu.my.id/vid/index.mpd?id=6786
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Champions_TV_5.png" group-title="SPORTS",CHAMPIONS TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9182
-https://tvratu.my.id/vid/index.mpd?id=9182
+#https://tvratu.my.id/vid/index.mpd?id=9182
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png/revision/latest?cb=20220810081421" group-title="SPORTS",CHAMPIONS TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=9183
-https://tvratu.my.id/vid/index.mpd?id=9183
+#https://tvratu.my.id/vid/index.mpd?id=9183
 
 #EXTINF:-1 tvg-uid="c13718310b734df97b60cfecff3bcd07" data-source="PLtaaii" tvg-id="Sportstars.id" tvg-logo="https://images.open-epg.com/32155.png" group-title="SPORTS",SPORTSTARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
