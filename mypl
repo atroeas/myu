@@ -24,7 +24,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 http://ikitv.sqn.at:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
-http://ikitv.sqn.at:8000/play/a019/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -89,7 +90,13 @@ https://ayo.maling.pl/Vision/index.mpd?id=10
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
-https://raw.githubusercontent.com/atroeas/myu/refs/heads/main/trans7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 ----------------------------------------KIDS-----------------------
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", Aniplus
