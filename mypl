@@ -11,9 +11,17 @@ https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=17887613
 
 
 #EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
+https://ogietv.biz.id:443/Livetv/234/1317.m3u8
+https://ogietv.biz.id:443/Buatx/AppxMaling/1317.m3u8
+http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350996
+http://157.15.187.3:25092/hls/54/54.m3u8
+
+#EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV SD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
@@ -72,8 +80,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="CNN.Indonesia.id tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
+https://ogietv.biz.id:443/Livetv/234/1496.m3u8
+https://ogietv.biz.id:443/Livetv/234/1498.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://202.169.224.202:8800/udp/239.4.1.3:1234
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -81,18 +95,22 @@ http://202.169.224.202:8800/udp/239.4.1.3:1234
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=10
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://images.open-epg.com/30524.png" group-title="INDONESIA",ANTV
-https://ayo.maling.pl/Vision/index.mpd?id=10
+https://ogietv.biz.id:443/Livetv/234/27383.m3u8
+https://ogietv.biz.id:443/Buatx/AppxMaling/27383.m3u8
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
+http://013tv.com:8080/F33848/cbd9779b/165072
+http://opplextv.cyou:8080/Ahsaan003/shahfaisa/350892
+http://157.15.187.3:25092/hls/45/45.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://transgroup.iontv.workers.dev/transtv.m3u8
+
+https://ogietv.biz.id:443/Livetv/234/1312.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https:/rtmp://f13h.mine.nu/sat/tv731/video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -360,8 +378,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&exte
 #EXTINF:-1 tvg-id="Astro Sports UHD 805.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/376086.png", ASTRO SPORTS UHD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
@@ -589,7 +605,11 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1761500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="SPORTS", TVRI Sport 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_900000=10002-mp4a_96000=20002.m3u8
+https://ogietv.biz.id:443/Livetv/234/24952.m3u8
+EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://157.15.187.3:25092/hls/49/49.m3u8
+https://tvri.cob.web.id/hls2/index.m3u8
+http://103.148.44.38:8000/play/a05u/index.m3u
 
 #EXTINF:-1 tvg-id="TSN1HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS", TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
