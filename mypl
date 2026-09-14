@@ -16,7 +16,7 @@ https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=17887613
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
-http://202.169.224.202:8800/udp/239.1.1.1:1234
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 http://013tv.com:8080/F33848/cbd9779b/162141
@@ -66,9 +66,11 @@ https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/7.ts
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
 
 #EXTINF:-1 tvg-id="CNN.Indonesia.id tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
 http://202.169.224.202:8800/udp/239.4.1.3:1234
@@ -92,10 +94,9 @@ https://ayo.maling.pl/Vision/index.mpd?id=10
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://transgroup.iontv.workers.dev/transtv.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://transgroup.iontv.workers.dev/trans7.m3u8
-#http://165.99.194.31:5555/stream/channelid/314965130?profile=pass
+#EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo=https://images.open-epg.com/30567.png,Trans7 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(NPk2kvvSD9EO0kSo2WDY3491AVc220Q-BC449WRs8W9O6HpE06Rw0DcqcF52MloNM2hyAqOroCYVUELC4p2vXlTr2jV4poXwgLdWAdQvFC2nicGB4pVbN6o_kH5TRMHn)/dm/3/x8qckyq/d/live-720.m3u8
 ----------------------------------------KIDS-----------------------
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", Aniplus
@@ -269,23 +270,10 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1172141.m3u8
 
 #EXTINF:-1 tvg-id="NatGeoWild.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1172142.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.id" tvg-logo="https://images.open-epg.com/28123.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL 
 http://202.169.224.202:8800/udp/239.9.1.6:1234
@@ -311,6 +299,9 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-uid="983cd1b1d7c4f2ba743625c7d732dabc" data-source="Mac Portal 5" group-title="KNOWLEDGE"tvg-logo="https://images.open-epg.com/17416577.png", LOVE NATURE 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1471386.m3u8
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-uid="e64c2162be5a097574beb195865ee99b" data-source="Mac Portal 10" group-title="KNOWLEDGE"tvg-logo="https://images.open-epg.com/x597.png", SKY CRIME
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1172162.m3u8
 
 ------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
