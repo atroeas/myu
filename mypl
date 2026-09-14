@@ -27,7 +27,10 @@ http://157.15.187.3:25092/hls/54/54.m3u8
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-http://013tv.com:8080/F33848/cbd9779b/162141
+https://ogietv.biz.id:443/Livetv/234/1322.m3u8
+https://bigdickgital.semar26.xyz/fetch?id=sdigital.m3u8&auth=sdgtlsemar25
+https://bigdickgital.semar26.xyz/fetch?id=sdigital.m3u8&auth=sdgtlsemar25
+http://157.15.187.3:25092/hls/55/55.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
