@@ -267,7 +267,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://www.transvision.co.id/img/channel/warner.png" group-title="MOVIES",Warner
+#EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://images.open-epg.com/21298740.png" group-title="MOVIES",Warner
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
