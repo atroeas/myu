@@ -9,7 +9,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=drm&x=1788761301&k=bf99cb000638ec12b21b25317e878e076bdabba565283a1e5558795f7e2342b5
 https://streambonetv.adenrahim97.workers.dev/index.mpd?q=205&ext=dash&x=1788761301&k=ba2f95cc67862d47b49c034aefa4718a81b23764d849f706d5dde1be4d48dc64&sc=205
 
-
 #EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
 https://ogietv.biz.id:443/Livetv/234/1317.m3u8
 https://ogietv.biz.id:443/Buatx/AppxMaling/1317.m3u8
@@ -20,8 +19,6 @@ http://157.15.187.3:25092/hls/54/54.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
 
 #EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
@@ -43,7 +40,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
 http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34325
-
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
