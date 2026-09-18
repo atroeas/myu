@@ -20,8 +20,11 @@ http://157.15.187.3:25092/hls/54/54.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:0 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 https://ogietv.biz.id:443/Livetv/234/1322.m3u8
@@ -36,10 +39,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192206.m3u8
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/192206.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
-http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34325
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+#http://31.43.191.125:8080/VIP013901729009150111/f2bed74245dd/34325
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png" group-title="INDONESIA",tvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -103,18 +108,13 @@ http://013tv.com:8080/F33848/cbd9779b/165072
 http://opplextv.cyou:8080/Ahsaan003/shahfaisa/350892
 http://157.15.187.3:25092/hls/45/45.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="TransTV" group-title="INDONESIA" tvg-logo=https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png, TransTV SD
-
-https://ogietv.biz.id:443/Livetv/234/1312.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-https:/rtmp://f13h.mine.nu/sat/tv731/video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS7" group-title="INDONESIA" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffa3f8aa-db6e-457e-b7b9-82396bb2c629.jpg",Trans7 SD
-#EXTVLCOPT:http-referrer=https://www.cubmu.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=OGYyOWY5ZGQwN2E4NDI1YTExYjAzOWIwODE3NThhMGY=&time=15252641507
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 ----------------------------------------KIDS-----------------------
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", Aniplus
@@ -143,62 +143,51 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 --------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLW15/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits (HD).sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPIEhpdHM/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature (HD).sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
 
-#EXTINF:0 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX (HD).sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q2luZW1heA/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -347,9 +336,6 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/26459
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-id="VSportPremierLeague.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161729.png" ,V SPORT PREMIER LEAGUE
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001366.m3u8
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE)
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310091
@@ -406,16 +392,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
-
-
-#EXTINF:-1 tvg-id="V sport premium HD (T).se" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/7823.png" ,V SPORT PREMIUM
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/294056.m3u8
-
-#EXTINF:-1 tvg-id="VSportPremierLeague1.no" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/25161730.png" ,V SPORT PREMIER LEAGUE 1
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1001365.m3u8
-
-#EXTINF:-1 tvg-id="V sport ultra HD (T).se" tvg-uid="7cc98e68dda12fa8081dfa7665892920" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/2255.png", V SPORT 4k
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1749221.m3u8
 
 #EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="121f2ff3f76f127f0c213e310d01e0d4" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", NOW SPORTS PREMIER LEAGUE 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948624.m3u8
@@ -630,12 +606,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 #EXTINF:-1 tvg-id="beIN 4K.qa" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,BEIN 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948627.m3u8
-
-#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?20070", 4K: V SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/483974.m3u8
-#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14021.jpg?85443", 4K: V SPORT+ ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1544254.m3u8
-#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?51579", 4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1544239.m3u8
-#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14436.jpg?30348", 4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1556135.m3u8
