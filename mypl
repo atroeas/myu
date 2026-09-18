@@ -630,3 +630,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 #EXTINF:-1 tvg-id="beIN 4K.qa" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" ,BEIN 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948627.m3u8
+
+#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12976.jpg?20070", 4K: V SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/483974.m3u8
+#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14021.jpg?85443", 4K: V SPORT+ ᵁᴴᴰ ³⁸⁴⁰ᴾ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1544254.m3u8
+#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?51579", 4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1544239.m3u8
+#EXTINF:-1 group-title="4K| ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14436.jpg?30348", 4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels4/1556135.m3u8
