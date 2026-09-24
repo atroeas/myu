@@ -158,11 +158,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
@@ -170,11 +170,11 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=truee
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
@@ -182,14 +182,14 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsI
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://maxstream.tv&Referer=https://maxstream.tv/&X-Forwarded-For=1.1.1.1&Client-IP=1.1.1.1
@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -206,11 +206,11 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+#https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
