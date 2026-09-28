@@ -347,7 +347,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
 #EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR1.m3u8
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl7.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="LIGA INGGRIS",Arena Premium 1
 https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS1.m3u8
