@@ -347,7 +347,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
 #EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/20477
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaHR1.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 1.rs" tvg-logo="http://smartillusion.feniks.team:25002/images/sport/arenapremium1.png" group-title="LIGA INGGRIS",Arena Premium 1
 https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS1.m3u8
@@ -446,7 +446,7 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&exte
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl8.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.rs" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SERIE A", ARENA PREMIUM 3
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaBelanda6.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS3.m3u8
 
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948662.m3u8
