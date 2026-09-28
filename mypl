@@ -360,9 +360,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE)
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310091
-http://panel.pro2box.cc/456876/bpMnYZA/243798
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350425
+http://31.43.191.125:8080/vip1601766507484/20d7282c8160/135345
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PREMIER LEAGUE (UK)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312036.m3u8
@@ -452,6 +450,9 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/LigaB
 
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1 4K
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948662.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1
+http://31.43.191.125:8080/vip1601766507484/20d7282c8160/880
 
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" group-title="SERIE A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" ,Sky Sport Calcio
@@ -600,7 +601,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="https://images.open-epg.com/3629.png" group-title="SPORTS",SKY SPORTS F1
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1761500.m3u8
+http://31.43.191.125:8080/vip1601766507484/20d7282c8160/135341
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/atroeas/logo-main/refs/heads/main/TVRI_2026_World_Cup.svg.png" group-title="SPORTS", TVRI Sport 
 https://ogietv.biz.id:443/Livetv/234/24952.m3u8
