@@ -463,9 +463,6 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959389&exte
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
 https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
 
-#EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="121f2ff3f76f127f0c213e310d01e0d4" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", NOW SPORTS PREMIER LEAGUE 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948624.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-uid="3d68dacdd02044dfe19f6603be00d386" data-source="Sports_1" tvg-logo="https://images.open-epg.com/16296.png" group-title="LIGA INGGRIS",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
