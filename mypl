@@ -156,10 +156,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
+#https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#KODIPROP:user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:mimetype=video/mp2t
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 #https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -172,7 +179,14 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#KODIPROP:user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:mimetype=video/mp2t
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 #https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -185,11 +199,25 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#KODIPROP:user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:mimetype=video/mp2t
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 #https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#KODIPROP:user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:mimetype=video/mp2t
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 #https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
