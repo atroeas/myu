@@ -299,6 +299,8 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTINF:-1 tvg-id="Mr. Bean.fi" tvg-logo="https://images.open-epg.com/26333416.png" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HDD
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 ---------------------------------------------------KNOWLEDGE-----------------
 
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE",Animal Planet
