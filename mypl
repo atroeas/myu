@@ -297,9 +297,6 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Mr. Bean.fi" tvg-logo="https://images.open-epg.com/26333416.png" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8 
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HDD
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 ---------------------------------------------------KNOWLEDGE-----------------
 
 #EXTINF:-1 tvg-id="Animal.Planet.id" tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE",Animal Planet
@@ -416,11 +413,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&exte
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-#EXTINF:-1 tvg-id="Astro Sports UHD 805.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/376086.png", ASTRO SPORTS UHD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
 
@@ -435,9 +427,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94140
 
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr"  tvg-logo="https://images.open-epg.com/19984522.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/506556.m3u8
-
-#EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1432151.m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
 http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959385&extension=ts&play_token=cPQiifmhKe
@@ -464,10 +453,6 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl1
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
-#EXTINF:-1 tvg-id="Digi 4K.ro" tvg-uid="3675487cb343872c5d6263bf59d92975" data-source="Macportal3" group-title="LA LIGA" tvg-logo="https://iptv-epg.org/images/qOzThCxgXDsbJjfyFc39arBXXcu0-UZ6XotK3B_D3vwY-58RtBCi_Fc__ZW2H4VGAAqRHzVEDnsU4XukU5J13jQE3ArsKOvv16mTbtjT294", DIGI 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1632122.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Football.my" group-title="SERIE A" tvg-logo="https://images.open-epg.com/11630113.png" ,ASTRO FOOTBALL
@@ -485,11 +470,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1
 http://31.43.191.125:8080/vip1601766507484/20d7282c8160/880
 
-
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" group-title="SERIE A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" ,Sky Sport Calcio
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITcalcio00.m3u8
-
-
 
 -----------------------------------------------SPORTS-----------------------------------
 
