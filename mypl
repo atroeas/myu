@@ -341,12 +341,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-uid="983cd1b1d7c4f2ba743625c7d732dabc" data-source="Mac Portal 5" group-title="KNOWLEDGE"tvg-logo="https://images.open-epg.com/17416577.png", LOVE NATURE 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1471386.m3u8
-
-#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-uid="e64c2162be5a097574beb195865ee99b" data-source="Mac Portal 10" group-title="KNOWLEDGE"tvg-logo="https://images.open-epg.com/x597.png", SKY CRIME
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1172162.m3u8
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
@@ -460,9 +454,6 @@ http://50.7.120.34:8080/DAZN1/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.rs" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SERIE A", ARENA PREMIUM 3
 https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS3.m3u8
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1 4K
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1948662.m3u8
 
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1
 http://31.43.191.125:8080/vip1601766507484/20d7282c8160/880
