@@ -296,21 +296,10 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic.uk" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=1172120&extension=m3u8Z
 
 #EXTINF:-1 tvg-id="NatGeoWild.uk" group-title="KNOWLEDGE" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=1172142&extension=m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.id" tvg-logo="https://images.open-epg.com/28123.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL 
 http://202.169.224.202:8800/udp/239.9.1.6:1234
@@ -354,7 +343,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 ------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Hub Premier 1.sg" tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="LIGA INGGRIS", HUB PREMIER 1
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314077&extension=m3u8
 
 #EXTINF:-1 tvg-id="Arenasport1.hr" group-title="LIGA INGGRIS" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",ARENASPORT 1
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl7.m3u8
@@ -390,15 +379,11 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl1
 #EXTINF:-1:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
+http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=1775977&extension=m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
+http://tv.cloudcdn.me/live.ts?channelId=125430&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-logo="https://images.open-epg.com/18431266.png" group-title="LIGA INGGRIS", FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -411,6 +396,9 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=94140
 
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr"  tvg-logo="https://images.open-epg.com/19984522.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/506556.m3u8
+
+#EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
+http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=1879&extension=m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
@@ -437,10 +425,8 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl1
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 #EXTINF:-1 tvg-id="Astro Football.my" group-title="SERIE A" tvg-logo="https://images.open-epg.com/11630113.png" ,ASTRO FOOTBALL
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
+http://tv.cloudcdn.me/live.ts?channelId=125432&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LA LIGA",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
@@ -481,19 +467,16 @@ https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS",Hub Premier 2 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-
-#EXTINF:-1 tvg-id="Hub Premier 2.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS",Hub Premier 2 4K
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/refs/heads/inal-22/4khubsport.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314078&extension=m3u8
 
 #EXTINF:-1 tvg-id="Hub Premier 3.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORTS",Hub Premier 3 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/HubsportPL3.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314080&extension=m3u8
 
 #EXTINF:-1 tvg-id="Hub Premier 4.sg" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="SPORTS",Hub Premier 4 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/HubsportPL4.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314081&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="SPORTS",Hub Premier 5 FHD
-https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/HubsportPL5.m3u8
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314082&extension=m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="SPORTS",MUTV
 https://get.perfecttv.net/mutv.mpd
