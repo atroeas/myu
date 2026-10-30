@@ -461,7 +461,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-id="TRINGSPORT1.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-1-fhd.png", TRING SPORT 1 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895006&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRINGSPORT2.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo=""https://www.logolarimiz.com/Toplu/Albania/tring-sport-2-fhd.png, TRING SPORT 1 HD
+#EXTINF:-1 tvg-id="TRINGSPORT2.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-2-fhd.png", TRING SPORT 2 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895007&extension=m3u8
 
 #EXTINF:-1 tvg-id="TRINGSPORT3.al" tvg-uid="b830caf9686d7afee7a4d25e21105376" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-3-fhd.png", TRING SPORT 3 HD
