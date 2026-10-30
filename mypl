@@ -458,16 +458,19 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-id="TRINGSPORT1.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", TRING SPORT 1 HD
-http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895006&extension=m3u8d
+#EXTINF:-1 tvg-id="TRINGSPORT1.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-1-fhd.png", TRING SPORT 1 HD
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895006&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRINGSPORT2.al" tvg-uid="b830caf9686d7afee7a4d25e21105376" data-source="Mac Portal 10" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", TRING SPORT 3 HD
+#EXTINF:-1 tvg-id="TRINGSPORT2.al" tvg-uid="e65895a14a91d8460858aba7818f8848" data-source="Mac Portal 10" group-title="UCL" tvg-logo=""https://www.logolarimiz.com/Toplu/Albania/tring-sport-2-fhd.png, TRING SPORT 1 HD
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895007&extension=m3u8
+
+#EXTINF:-1 tvg-id="TRINGSPORT3.al" tvg-uid="b830caf9686d7afee7a4d25e21105376" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-3-fhd.png", TRING SPORT 3 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895008&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRINGSPORT3.al" tvg-uid="123c916bc47653f959851683ed18f461" data-source="Mac Portal 10" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", TRING SPORT 4 HD
+#EXTINF:-1 tvg-id="TRINGSPORT4.al" tvg-uid="123c916bc47653f959851683ed18f461" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-4-fhd.png", TRING SPORT 4 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895009&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRINGSPORT4.al" tvg-uid="6394ddf93b12d3d2ddb29a6c233e147b" data-source="Mac Portal 10" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", TRING SPORT 5 HD
+#EXTINF:-1 tvg-id="TRINGSPORT5.al" tvg-uid="6394ddf93b12d3d2ddb29a6c233e147b" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-5-fhd.png", TRING SPORT 5 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895010&extension=m3u8
 
 #EXTINF:-1 tvg-id="Digi Sport 1.ro" tvg-uid="29b9169e8cb4228cce53273570ca6452" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-1-ro.png", DIGI SPORT 1 FHD
@@ -483,25 +486,22 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929209&extensio
 #EXTINF:-1 tvg-id="Digi Sport 4.ro" tvg-uid="8369fddf7942e9d14e334f36f258ebe2" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-4-ro.png", DIGI SPORT 4 FHD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929207&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-uid="b714b416ca94215024ceee22089553ab" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png", ZIGGO SPORT 4K
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-uid="b714b416ca94215024ceee22089553ab" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8710.png", ZIGGO SPORT 1 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548065&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport1.nl" tvg-uid="44547062811ac59df0dc98615e1ba535" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png", ZIGGO SPORT 1 4K
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548066&extension=m3u8
-
-#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-uid="ed02f116bd137e748f5180fac5b21220" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTVOETBALHD.png", ZIGGO SPORT 2 4K
+#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-uid="ed02f116bd137e748f5180fac5b21220" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8705.png", ZIGGO SPORT 2 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548062&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-uid="3cbc83216d5bc8d2d68dabe341424147" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTGOLFHD.png", ZIGGO SPORT 3 4K
+#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-uid="3cbc83216d5bc8d2d68dabe341424147" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8706.png", ZIGGO SPORT 3 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548068&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-uid="8eb9918194ac49a2089fa07c05ae5c2f" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png", ZIGGO SPORT 4 4K
+#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-uid="8eb9918194ac49a2089fa07c05ae5c2f" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8707.png", ZIGGO SPORT 4 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548067&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-uid="ace9e2ab7bf1db2e718bbb55ca622384" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTDOCUHD.png", ZIGGO SPORT 5 4K
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-uid="ace9e2ab7bf1db2e718bbb55ca622384" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8708.png", ZIGGO SPORT 5 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548069&extension=m3u8
 
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-uid="622bae013da7029e06f2a9214cd3ee95" data-source="Sports7November" group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTTENNISHD.png", ZIGGO SPORT 6 4K
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-uid="622bae013da7029e06f2a9214cd3ee95" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8709.png", ZIGGO SPORT 6 4K
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548063&extension=m3u8
 -----------------------------------------------SPORTS-----------------------------------
 
