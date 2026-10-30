@@ -5,12 +5,10 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
 
-#EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTINF:0 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rplus.inisemar.my.id/mnctv.m3u8
 
 #EXTINF:-1 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV SD
 #EXTVLCOPT:http-user-agent=android-R+
@@ -24,10 +22,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/U0NUVi1teQ/manifest.mpd?
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna3/204.mpd
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3d2tmdXBrZDR3bmUzaGMyNmQ4aHNoYmh4eWJ5a2RvNXlhZnczayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/EWM0pHkcVMwiThtHwU/giphy.gif" group-title="INDONESIA",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
