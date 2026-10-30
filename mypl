@@ -470,7 +470,7 @@ http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895008&exten
 #EXTINF:-1 tvg-id="TRINGSPORT4.al" tvg-uid="123c916bc47653f959851683ed18f461" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-4-fhd.png", TRING SPORT 4 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895009&extension=m3u8
 
-#EXTINF:-1 tvg-id="TRINGSPORT5.al" tvg-uid="6394ddf93b12d3d2ddb29a6c233e147b" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Albania/tring-sport-5-fhd.png", TRING SPORT 5 HD
+#EXTINF:-1 tvg-id="TRINGSPORT5.al" tvg-uid="6394ddf93b12d3d2ddb29a6c233e147b" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png", TRING SPORT 5 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895010&extension=m3u8
 
 #EXTINF:-1 tvg-id="Digi Sport 1.ro" tvg-uid="29b9169e8cb4228cce53273570ca6452" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-1-ro.png", DIGI SPORT 1 FHD
