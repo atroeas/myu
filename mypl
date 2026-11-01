@@ -368,7 +368,7 @@ http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
 #EXTINF:-1 tvg-id="USA Network - Pacific (125).us" tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://images.open-epg.com/9411980.png" group-title="LIGA INGGRIS", USA NETWORK
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN 2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
+#EXTINF:-1: tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
@@ -392,10 +392,10 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
 http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=1879&extension=m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN 3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
+#EXTINF:-1:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN 4.pt" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="LIGA INGGRIS", DAZN 4
+#EXTINF:-1:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="LIGA INGGRIS", DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
@@ -420,7 +420,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 tvg-id="Astro Football.my" group-title="SERIE A" tvg-logo="https://images.open-epg.com/11630113.png" ,ASTRO FOOTBALL
 http://tv.cloudcdn.me/live.ts?channelId=125432&uid=18357&deviceMac=00:1A:79:83:61:37
 
-#EXTINF:-1:-1 tvg-id="DAZN 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LA LIGA",DAZN 1
+#EXTINF:-1:-1 tvg-id="DAZN1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LA LIGA",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.rs" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SERIE A", ARENA PREMIUM 3
