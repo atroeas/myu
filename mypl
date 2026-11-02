@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://www.open-epg.com/generate/yCBAAdapZF.xml refresh="1440" max-conn="1" refresh="8"
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/29broman/mytry/refs/heads/main/yCBAAdapZF_translated_all.xml refresh="1440" max-conn="1" refresh="8"
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar" group-title="INDONESIA",Indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=dash
