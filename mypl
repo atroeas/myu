@@ -121,10 +121,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://images.open-epg.com/30539.png",HBO HD
 #https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLW15/manifest.mpd?=\u0026time=77777777777
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id"" tvg-logo="https://images.open-epg.com/30539.png",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -135,10 +135,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.id" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits HD
 http://v3tv.live:80/redcena_421415/bgO68Tlc/1163802
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.idg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -152,10 +152,10 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family HD
 #https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLUZhbWlseS1teQ/manifest.mpd?=\u0026time=77777777777
 
-#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -166,7 +166,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsI
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -180,7 +180,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.id" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV HD
 #https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?=\u0026time=77777777777
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax HD
 #https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q2luZW1heA/manifest.mpd?=\u0026time=77777777777
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
+#EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax.id" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/500px-Logo_tvN.svg.png" group-title="MOVIES", tvN
