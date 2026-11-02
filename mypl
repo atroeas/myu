@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/29broman/mytry/refs/heads/main/yCBAAdapZF_translated_all.xml refresh="1440" max-conn="1" refresh="8"
 
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar" group-title="INDONESIA",Indosiar
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" tvg-id="Indosiar.id" group-title="INDONESIA",Indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
@@ -467,17 +467,17 @@ http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895009&exten
 #EXTINF:-1 tvg-id="TRINGSPORT5.al" tvg-uid="6394ddf93b12d3d2ddb29a6c233e147b" data-source="Mac Portal 10" group-title="UCL" tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png", TRING SPORT 5 HD
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=895010&extension=m3u8
 
-#EXTINF:-1 tvg-id="Digi Sport 1.ro" tvg-uid="29b9169e8cb4228cce53273570ca6452" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-1-ro.png", DIGI SPORT 1 FHD
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-uid="29b9169e8cb4228cce53273570ca6452" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-1-ro.png", DIGI SPORT 1 FHD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929213&extension=m3u8
 
-#EXTINF:-1 tvg-id="Digi Sport 2.ro" tvg-uid="0d0b91a141fc7c647caaaf5f44642e24" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-2-ro.png", DIGI SPORT 2 FHD
+#EXTINF:-1 tvg-id="DigiSport 2.ro" tvg-uid="0d0b91a141fc7c647caaaf5f44642e24" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-2-ro.png", DIGI SPORT 2 FHD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929211&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="Digi Sport 3.ro" tvg-uid="45e5001cd16bd20b243d223bb18e662f" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-3-ro.png", DIGI SPORT 3 FHD
+#EXTINF:-1 tvg-id="DigiSport 3.ro" tvg-uid="45e5001cd16bd20b243d223bb18e662f" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-3-ro.png", DIGI SPORT 3 FHD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929209&extension=m3u8
 
-#EXTINF:-1 tvg-id="Digi Sport 4.ro" tvg-uid="8369fddf7942e9d14e334f36f258ebe2" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-4-ro.png", DIGI SPORT 4 FHD
+#EXTINF:-1 tvg-id="DigiSport 4.ro" tvg-uid="8369fddf7942e9d14e334f36f258ebe2" data-source="Mac Portal 20" group-title="UCL" tvg-logo="https://www.logolarimiz.com/Toplu/Romania/digi-sport-4-ro.png", DIGI SPORT 4 FHD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=929207&extension=m3u8
 
 #EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-uid="b714b416ca94215024ceee22089553ab" data-source="Sports7November" group-title="UCL" tvg-logo="https://images.open-epg.com/8710.png", ZIGGO SPORT 1 4K
@@ -500,12 +500,12 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=548063&extension
 -----------------------------------------------SPORTS-----------------------------------
 
 
-#EXTINF:-1 tvg-id="Prima Sport 1.ro" tvg-name="Prima Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png" group-title="SPORTS" ,Prima Sport 1 
+#EXTINF:-1 tvg-id="PrimaSport 1.ro" tvg-name="Prima Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png" group-title="SPORTS" ,Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="Prima Sport 2.ro" tvg-name="Prima Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png" group-title="SPORTS" ,Prima Sport 2 
+#EXTINF:-1 tvg-url="" tvg-id="PrimaSport 2.ro" tvg-name="Prima Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png" group-title="SPORTS" ,Prima Sport 2 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
