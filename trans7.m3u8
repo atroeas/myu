@@ -1,23 +1,17 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:139271
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:3.004,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139271.ts
-#EXTINF:2.963,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139272.ts
-#EXTINF:3.004,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139273.ts
-#EXTINF:3.003,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139274.ts
-#EXTINF:3.004,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139275.ts
-#EXTINF:3.004,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139276.ts
-#EXTINF:3.003,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139277.ts
-#EXTINF:3.004,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139278.ts
-#EXTINF:3.003,
-media_w1452398213_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg0NDQ1Njc3Njgmd293emF0b2tlbmhhc2g9bE5rZXV3ZG1DMERDbi1uRVR4QzN1SVlaZERQX183b2dnQWxqaGx1TEZrdz0=_139279.ts
+#EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV SD
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-uid="cc0a11803143e288964faf9a8f74fb34" data-source="rctiplus++" tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rplus.inisemar.my.id/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-logo="https://images.open-epg.com/32166.png" group-title="MOVIES", tvN Movies
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
