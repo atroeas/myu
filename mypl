@@ -316,21 +316,19 @@ https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPre
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE)
-http://31.43.191.125:8080/vip1601766507484/20d7282c8160/135345
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=1149432&extension=m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", SKY SPORT PREMIER LEAGUE (DE) HD
 http://31.43.191.125:8080/vip1601766507484/20d7282c8160/135345
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PREMIER LEAGUE (UK)
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+#EXTINF:-1 tvg-uid="9cf2c9141904dc1b33161bdca1f49762" data-source="Mac Portal 23" tvg-id="SkySportsPremierLeague.uk" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/x467.png" ,SKY SPORTS PREMIER LEAGUE (UK)
+http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=394557&extension=m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS",Sky Sports Main Event
-http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=1312033&extension=m3u8
 
 #EXTINF:-1 tvg-id="USA Network - Pacific (125).us" tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://images.open-epg.com/9411980.png" group-title="LIGA INGGRIS", USA NETWORK
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
@@ -375,7 +373,7 @@ https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSpor
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Premier League.nz" tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/822.png", SKY SPORT PREMIER LEAGUE (NZ)
-https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl10.m3u8
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=809372&extension=m3u8
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
