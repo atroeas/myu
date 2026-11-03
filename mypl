@@ -10,6 +10,8 @@ https://vidsemar.pages.dev/terraluna3/205.mpd
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34326
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://mdtelevision.com/wp-content/uploads/2025/03/MDTV-Primary-Logo.png" group-title="INDONESIA",NET TV
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34321
 
 #EXTINF:-1 tvg-id="Sctv" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
