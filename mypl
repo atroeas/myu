@@ -341,7 +341,7 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
 #EXTINF:-1 tvg-id="USA Network - Pacific (125).us" tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://images.open-epg.com/9411980.png" group-title="LIGA INGGRIS", USA NETWORK
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
 
-#EXTINF:-1: tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
+#EXTINF:-1: tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://images.open-epg.com/25599086.png" group-title="LIGA INGGRIS", DAZN 2
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959379&extension=m3u8
 
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
@@ -364,10 +364,10 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=928402&extensio
 #EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
 http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=1879&extension=m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
+#EXTINF:-1:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://images.open-epg.com/25599087.png" group-title="LIGA INGGRIS", DAZN 3
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959382&extension=m3u8
 
-#EXTINF:-1:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="LIGA INGGRIS", DAZN 4
+#EXTINF:-1:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://images.open-epg.com/25599088.png" group-title="LIGA INGGRIS", DAZN 4
 http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959386&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-uid="3d68dacdd02044dfe19f6603be00d386" data-source="Sports_1" tvg-logo="https://images.open-epg.com/16296.png" group-title="LIGA INGGRIS",TNT SPORTS 1
