@@ -322,7 +322,7 @@ https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPre
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", |DE| SKY SPORT PREMIER LEAGUE (DE) 
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", |DE| SKY SPORT PREMIER LEAGUE
 http://31.43.191.125:8080/vip1601766507484/20d7282c8160/135345
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 
@@ -474,7 +474,7 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314081&ext
 http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314082&extension=m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://images.open-epg.com/19115.png" group-title="SPORTS",MUTV
-https://get.perfecttv.net/mutv.mpd
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=1312814&extension=m3u8
 
 #EXTINF:-1 tvg-id="FIFA+.fi" tvg-logo="https://images.open-epg.com/4079983.png" group-title="SPORTS",FIFA+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
