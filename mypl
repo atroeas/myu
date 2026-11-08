@@ -317,9 +317,11 @@ https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPre
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-logo=" https://lo1.in/ger/SKY SPORT PREMIER LEAGUE.png" group-title="LIGA INGGRIS", |DE| SKY SPORT PREMIER LEAGUE
@@ -336,7 +338,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=1312033&extensio
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
 
 #EXTINF:-1: tvg-id="DAZN2.pt" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="LIGA INGGRIS", DAZN 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959378&extension=m3u8
 
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=18357&deviceMac=00:1A:79:83:61:37
@@ -345,28 +347,24 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=18357&deviceMac=00:1A:79:83:61
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-logo="https://images.open-epg.com/18431266.png" group-title="LIGA INGGRIS", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 tvg-id="CanalPlusFoot.fr"  tvg-logo="https://images.open-epg.com/779941.png" group-title="LIGA INGGRIS",CANAL+ FOOT
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=928407&extension=m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr"  tvg-logo="https://images.open-epg.com/19984522.png" group-title="LIGA INGGRIS",CANAL+ PREMIER LEAGUE
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/506556.m3u8
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:1A:64:C9&stream=928402&extension=m3u8
 
 #EXTINF:-1 tvg-id="NovasportsPremierLeague.gr" tvg-uid="4353f5eeca53b6f8d0521668c59de892" data-source="Macportal3" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/10130323.png", NOVASPORTS PREMIER LEAGUE
 http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=1879&extension=m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN3.pt" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="LIGA INGGRIS", DAZN 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959382&extension=m3u8
 
 #EXTINF:-1:-1 tvg-id="DAZN4.pt" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="LIGA INGGRIS", DAZN 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-logo="https://images.open-epg.com/18431264.png" group-title="LIGA INGGRIS", FUBO SPORTS 1 FHD
-https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FuboSport1.m3u8
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959386&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-uid="3d68dacdd02044dfe19f6603be00d386" data-source="Sports_1" tvg-logo="https://images.open-epg.com/16296.png" group-title="LIGA INGGRIS",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -388,7 +386,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 http://tv.cloudcdn.me/live.ts?channelId=93742&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1:-1 tvg-id="DAZN1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LA LIGA",DAZN 1
-http://50.7.120.34:8080/DAZN1/index.m3u8
+http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959374&extension=m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 3.rs" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SERIE A", ARENA PREMIUM 3
 https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS3.m3u8
