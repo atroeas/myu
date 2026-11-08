@@ -237,7 +237,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 #EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://iptv-epg.org/images/sbwI8SQruCxTB0f1hTwiit3EHnH3g089xD5ydsOB2cbUKuqzYrx2EU9JHpqfJrIOFpipCraO7xMlh4Mr6XzUG0lMD5gmr4SICt_NUEGxQXUjebXb" group-title="MOVIES", Warner
-http://202.150.161.212:5000/live/channel29/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1793708671&sign=a44b5172764b723e62943c34fa9b86c6ec7d6db3c9335c8ef7fa995290d0ac25
+https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1793708671&sign=a44b5172764b723e62943c34fa9b86c6ec7d6db3c9335c8ef7fa995290d0ac25
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Mr. Bean.fi" tvg-logo="https://images.open-epg.com/26333416.png" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
@@ -332,7 +336,7 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 http://main.light-ott.net/play/live.php?mac=00:1a:79:b4:6b:ad&stream=394557&extension=m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="LIGA INGGRIS", Sky Sports Main Event
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=1312033&extension=m3u8
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281430.m3u8
 
 #EXTINF:-1 tvg-id="USA Network - Pacific (125).us" tvg-uid="4c9c6d3f6911b610a7633949c94e14de" data-source="dami2" tvg-logo="https://images.open-epg.com/9411980.png" group-title="LIGA INGGRIS", USA NETWORK
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl11.m3u8
@@ -374,6 +378,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 
 #EXTINF:-1 tvg-id="Sky Sport Premier League.nz" tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/822.png", |NZ| SKY SPORT PREMIER LEAGUE
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=809372&extension=m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="23eb1df67ebac01e035c34d11da6786f" data-source="Macportal1" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", Now Sports 4K 1
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=1314088&extension=m3u8
 --------------------------------------------------------------------------------LA LIGA----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 data-source="PLtaaii" tvg-id="Bein.1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LA LIGA", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -392,7 +399,7 @@ http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959374&exten
 https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/ArenaPremiumRS3.m3u8
 
 #EXTINF:-1 tvg-id="Eleven.Sports.1" tvg-uid="bae18b2e5e19a33918fde9bf988dfca4" data-source="Macportal3" group-title="SERIE A" tvg-logo="https://images.open-epg.com/21298328.png", ELEVEN SPORTS 1
-http://31.43.191.125:8080/vip1601766507484/20d7282c8160/880
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281071.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" group-title="SERIE A" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" ,Sky Sport Calcio
 https://raw.githubusercontent.com/B-inal-123/sky-s/refs/heads/inal-22/skysportITcalcio00.m3u8
