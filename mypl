@@ -339,10 +339,10 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/eepl1
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="LIGA INGGRIS", ASTRO GRANDSTAND
-http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=1775977&extension=m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93741&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1 tvg-id="Astro Premier League 2.my" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/11630117.png", ASTRO PREMIER LEAGUE 2
-http://tv.cloudcdn.me/live.ts?channelId=125430&uid=18357&deviceMac=00:1A:79:83:61:37
+http://tv.cloudcdn.me/live.ts?channelId=93740&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-logo="https://images.open-epg.com/18431266.png" group-title="LIGA INGGRIS", FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -385,7 +385,7 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=809372&extension
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-id="Astro Football.my" group-title="SERIE A" tvg-logo="https://images.open-epg.com/11630113.png" ,ASTRO FOOTBALL
-http://tv.cloudcdn.me/live.ts?channelId=125432&uid=18357&deviceMac=00:1A:79:83:61:37
+http://tv.cloudcdn.me/live.ts?channelId=93742&uid=18357&deviceMac=00:1A:79:83:61:37
 
 #EXTINF:-1:-1 tvg-id="DAZN1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="LA LIGA",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
