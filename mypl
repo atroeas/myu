@@ -265,23 +265,18 @@ http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=1172121&exte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_efpv3846&exp=1793515669&sign=76da26c1b9479c2da7b0758514c351a84f0e3610e23adf10133b76a569d9c548
-https://maxstreamtv.memektv.my.id/stream/0_efpv3846.mpd?exp=1793515669&sign=76da26c1b9479c2da7b0758514c351a84f0e3610e23adf10133b76a569d9c548
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_efpv3846&exp=1793708671&sign=c12a324b14ebae529ef1028eb55f6048fd27be958517f54798cb6a5547180482
+https://maxstreamtv.memektv.my.id/stream/0_efpv3846.mpd?exp=1793708671&sign=c12a324b14ebae529ef1028eb55f6048fd27be958517f54798cb6a5547180482
 
 #EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_207.jpg" group-title="KNOWLEDGE",Crime Investigation 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=95&type=drm&token=KITKATTV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
 
 #EXTINF:-1 tvg-id="History.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" group-title="KNOWLEDGE",History
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=104&type=drm&token=KITKATTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
 
 #EXTINF:-1 tvg-id="CNA.id" tvg-logo="https://i.imgur.com/bsQCS1j.png" group-title="KNOWLEDGE",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
