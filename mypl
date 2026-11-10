@@ -92,11 +92,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34397
 
 #EXTINF:-1 tvg-id="Animax (HD).sg" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=65
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_86sal99e&exp=1794323948&sign=eb84a12c8c24c2f429f25d12bbcd3669dcc827105f769e92dd76943cc7adb708
+https://maxstreamtv.memektv.my.id/stream/0_86sal99e.mpd?exp=1794323948&sign=eb84a12c8c24c2f429f25d12bbcd3669dcc827105f769e92dd76943cc7adb708
 
 #EXTINF:-1 tvg-id="Nick.Junior.id" tvg-logo="https://i.pinimg.com/736x/30/f0/64/30f06464f59c7c1086b95c4b3577319d.jpg" group-title="KIDS", Nick Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -161,18 +161,14 @@ https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/Hbosigna
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/500px-Logo_tvN.svg.png" group-title="MOVIES", tvN
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="tvN.Movies.id" tvg-logo="https://images.open-epg.com/32166.png" group-title="MOVIES", tvN Movies
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="MOVIES", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -185,11 +181,9 @@ https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
 https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-logo="https://images.open-epg.com/30558.png" group-title="MOVIES", Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_1gshn4os&exp=1793708671&sign=c1d7efdeecb742221b8e1180789a1fef959874ece9a74f6bee96739bc5a4248e
-https://maxstreamtv.memektv.my.id/stream/0_1gshn4os.mpd?exp=1793708671&sign=c1d7efdeecb742221b8e1180789a1fef959874ece9a74f6bee96739bc5a4248e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
 
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://images.open-epg.com/30533.png" group-title="MOVIES",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -221,8 +215,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1793708671&sign=a44b5172764b723e62943c34fa9b86c6ec7d6db3c9335c8ef7fa995290d0ac25
-https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1793708671&sign=a44b5172764b723e62943c34fa9b86c6ec7d6db3c9335c8ef7fa995290d0ac25
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1794323948&sign=d869eb5cce2fe8733b52c413ba37dd857b6a773f38705913c750c7a95ac3c279
+https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1794323948&sign=d869eb5cce2fe8733b52c413ba37dd857b6a773f38705913c750c7a95ac3c279
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Mr. Bean.fi" tvg-logo="https://images.open-epg.com/26333416.png" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
@@ -352,7 +346,7 @@ http://mag.tiger-ott.net/play/live.php?mac=00:1A:79:08:53:B8&stream=959386&exten
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Premier League.nz" tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/822.png", |NZ| SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportPremierLeague.nz" tvg-uid="028f77349570bf7d0dcd739a94597de9" data-source="Sports7November" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/822.png", |NZ| SKY SPORT PREMIER LEAGUE
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:a7:dd:f5&stream=809372&extension=m3u8
 
 #EXTINF:-1 tvg-id="Now Sports 4K 1.hk" tvg-uid="23eb1df67ebac01e035c34d11da6786f" data-source="Macportal1" group-title="LIGA INGGRIS" tvg-logo="https://images.open-epg.com/1156.png", Now Sports 4K 1
