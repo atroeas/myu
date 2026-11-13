@@ -25,10 +25,7 @@ https://vidsemar.pages.dev/terraluna3/204.mpd
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34322
 
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDONESIA",Trans TV
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34324
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFvbG5nY2N2NXc2OWQ4aWYzN2llaGF6N3U2bjFld2Uya2F5NGNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x49CPf2UCcNDncbqVY/giphy.gif" group-title="INDONESIA",Trans 7
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
