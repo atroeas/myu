@@ -7,7 +7,9 @@
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://images.open-epg.com/30550.png" group-title="INDONESIA",MNCTV
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34326
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -76,11 +78,9 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34397
 
 #EXTINF:-1 tvg-id="Animax (HD).sg" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS", Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_86sal99e&exp=1794323948&sign=eb84a12c8c24c2f429f25d12bbcd3669dcc827105f769e92dd76943cc7adb708
-https://maxstreamtv.memektv.my.id/stream/0_86sal99e.mpd?exp=1794323948&sign=eb84a12c8c24c2f429f25d12bbcd3669dcc827105f769e92dd76943cc7adb708
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Junior.id" tvg-logo="https://i.pinimg.com/736x/30/f0/64/30f06464f59c7c1086b95c4b3577319d.jpg" group-title="KIDS", Nick Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
