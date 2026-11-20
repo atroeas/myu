@@ -166,11 +166,7 @@ https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 #EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://iptv-epg.org/images/sbwI8SQruCxTB0f1hTwiit3EHnH3g089xD5ydsOB2cbUKuqzYrx2EU9JHpqfJrIOFpipCraO7xMlh4Mr6XzUG0lMD5gmr4SICt_NUEGxQXUjebXb" group-title="MOVIES", Warner
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1794323948&sign=d869eb5cce2fe8733b52c413ba37dd857b6a773f38705913c750c7a95ac3c279
-https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1794323948&sign=d869eb5cce2fe8733b52c413ba37dd857b6a773f38705913c750c7a95ac3c279
+http://aflaxtv.xyz:8080/F33848/cbd9779b/157594
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Mr. Bean.fi" tvg-logo="https://images.open-epg.com/26333416.png" tvg-id="itzplay.id" group-title="MOVIES",Mr.Bean Classic
