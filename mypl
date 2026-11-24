@@ -47,7 +47,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/500px-LogoMetroTVsince2010.svg.png", Metro TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 
-#EXTINF:-1 tvg-id="KompasTV.id" group-title="INDONESIA" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="INDONESIA" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
@@ -61,7 +61,7 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34331
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNN.Indonesia.id" tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://images.open-epg.com/30531.png" group-title="INDONESIA",CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -164,7 +164,7 @@ https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
 
-#EXTINF:-1 tvg-id="Warnertv Hd.ph" tvg-logo="https://iptv-epg.org/images/sbwI8SQruCxTB0f1hTwiit3EHnH3g089xD5ydsOB2cbUKuqzYrx2EU9JHpqfJrIOFpipCraO7xMlh4Mr6XzUG0lMD5gmr4SICt_NUEGxQXUjebXb" group-title="MOVIES", Warner
+#EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" tvg-logo="https://iptv-epg.org/images/sbwI8SQruCxTB0f1hTwiit3EHnH3g089xD5ydsOB2cbUKuqzYrx2EU9JHpqfJrIOFpipCraO7xMlh4Mr6XzUG0lMD5gmr4SICt_NUEGxQXUjebXb" group-title="MOVIES", Warner
 http://aflaxtv.xyz:8080/F33848/cbd9779b/157594
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
