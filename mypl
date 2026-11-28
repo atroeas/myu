@@ -99,16 +99,16 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=64
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 --------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.sg" tvg-logo="https://images.open-epg.com/30539.png",HBO
 http://tv.cloudcdn.me/live.ts?channelId=132161&uid=19260&deviceSn=2E1D291CE6D27&deviceMac=00:1A:79:00:02:27
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOHits.sg" tvg-logo="https://images.open-epg.com/30537.png", HBO Hits
 http://tv.cloudcdn.me/live.ts?channelId=132160&uid=19260&deviceSn=2E1D291CE6D27&deviceMac=00:1A:79:00:02:27
 
-#EXTINF:-1 tvg-id="HBO Family HD.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.sg" tvg-logo="https://images.open-epg.com/30536.png" group-title="MOVIES", HBO Family
 http://tv.cloudcdn.me/live.ts?channelId=93779&uid=19260&deviceSn=2E1D291CE6D27&deviceMac=00:1A:79:00:02:27
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBOSignature.sg" tvg-logo="https://images.open-epg.com/30538.png",HBO Signature TV
 http://tv.cloudcdn.me/live.ts?channelId=93744&uid=19260&deviceSn=2E1D291CE6D27&deviceMac=00:1A:79:00:02:27
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD.sg" tvg-logo="https://images.open-epg.com/30530.png",Cinemax
@@ -159,7 +159,7 @@ https://dsgtq5sngxkde.cloudfront.net/hits/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS NOW (HD).sg" group-title="MOVIES"  tvg-logo="https://images.open-epg.com/30541.png",HITS Now
+#EXTINF:-1 tvg-id="HITSNOW.sg" group-title="MOVIES"  tvg-logo="https://images.open-epg.com/30541.png",HITS Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
